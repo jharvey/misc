@@ -77,6 +77,21 @@ Because PSY 256 has already been satisfied via transfer, she can move forward wi
 2. Confirm exact course codes, prerequisites, and which summer community-college courses will transfer.
 3. Track GPA carefully (needs ≥ 3.2 for Gordon Plus).
 
+
+### Estimated Cost & Billing Timeline (2026–2030)
+
+- | Term	Planned | Courses & Credits	| Gross Sticker Cost	Est. | Net Cost (After $21.5k Aid)	| Payment Due Date |
+- | Spring 2027	| PSY 257, PSY 245, PSY 246 + Core (14–18 cr)	| $25,680	| ~$14,930	|Dec 15, 2026 |
+- | Summer 2027	| YCCC / SMCC (2 online courses / 6 cr in-state)	| ~$826	| ~$826 (aid n/a)	|May 2027 |
+- | Summer 2027	| THT 291 British Theatre Seminar (4 cr)	| ~$5,500	| ~$5,500 (aid n/a)	|Spring 2027 (deposits) |
+- | Fall 2027	| Junior Psych + 1 Gordon Plus grad course	| $27,225	| ~$16,475	|Jul 15, 2027 |
+- | Spring 2028	| Junior Psych + 1 Gordon Plus grad course	| $27,225	| ~$16,475	|Dec 15, 2027 |
+- | Fall 2028	| Senior Psych + 1 Gordon Plus grad course	| ~$28,178 (est. +3.5%)	| ~$17,428	|Jul 15, 2028 |
+- | pring 2029	| Senior Psych + 1 Gordon Plus grad course	| ~$28,178 (est. +3.5%)	| ~$17,428	|Dec 15, 2028 |
+- | Year 5 (2029–30)	| Remaining M.A. Counseling | (~24 cr @ $725/cr + fees)	~$18,000	| ~$18,000 (no undergrad aid)	|Jul 15 / Dec 15, 2029 |
+
+(Note: Returning students also owe a $100 registration deposit on March 15 and $100 housing deposit on April 1 each spring.)
+
 ---
 
 ## Son – Junior at OVCS (Cornish, ME)
