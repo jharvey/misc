@@ -85,4 +85,159 @@ Because PSY 256 has already been satisfied via transfer, prioritize remaining fo
 | High | PHI 102 – Ethics in Contemporary Society (YCCC) or equivalent | Philosophy Core | Excellent match |
 | High | ENG literature courses (American Lit, World Lit, Shakespeare, etc.) | Literature Core | Confirm if ENG 142 already covered this |
 | Medium | ART 110 Art Appreciation, MUS 101 Music Appreciation, Drawing, etc. | Fine Arts | Backup if THT 291 does not fully cover |
-| Medium | SOC 101 Introduction to Sociology, additional PSY electives (e
+| Medium | SOC 101 Introduction to Sociology, additional PSY electives (e.g., Social Psychology, Abnormal if not redundant) | Social Sciences / Psychology elective | Useful if Social Sciences still open |
+| Lower / Elective | Additional science or math if NSM 202 still needed | Natural Sciences / Scientific Enterprise | Only if Chem + Physics did not fully satisfy |
+
+**Practical summer load suggestion:**
+- THT 291 (4 cr) + 2–3 local courses (6–9 cr) = 10–13 credits total is realistic and beneficial.
+- Prefer online or short-session formats so they do not conflict with the British Theatre trip.
+- Goal: Clear as many Exploratory + remaining Common Core items as possible so junior/senior years can focus on Psychology major courses + Gordon Plus graduate credits.
+
+Always obtain written transfer equivalency confirmation from Gordon’s Registrar **before** registering and paying.
+
+#### Fall 2027 – Spring 2028 (Junior Year)
+- Finish remaining undergraduate Psychology major + Clinical concentration requirements
+- Upper-level Psychology electives (high-priority examples):
+  - **PSY 281** – Drugs and Behavior / Introduction to Psychopharmacology
+  - **PSY 349** – Physiological Psychology
+  - **PSY 340** – Personality Theories
+  - **PSY 342** – Cognitive Psychology
+  - **PSY 311** – Developmental Disabilities (if available and fits concentration)
+- Begin **Gordon Plus** graduate courses once eligible (junior standing + ≥ 3.2 GPA). Strong early options:
+  - **PSY 650** – Psychopharmacology and Care
+  - **PSY 670** – Emotion, Thought and Behavior
+  - **PSY 630** – Group Dynamics and Therapy
+- Aim to bank **6–8 graduate credits** this year
+- Any final Core cleanup that could not be completed in summer
+
+#### Fall 2028 – Spring 2029 (Senior Year)
+- Complete all remaining undergraduate requirements (bachelor’s conferred May 2029)
+- Take remaining Gordon Plus graduate credits (up to the 12-credit lifetime maximum)
+- Undergraduate internship / senior seminar if required (**PSY 425** or equivalent)
+- Formally apply to the M.A. in Clinical Mental Health Counseling
+- Any final Core or elective cleanup
+
+#### Post-Bachelor’s (if needed – Year 5)
+- Finish remaining master’s credits + practicum/internship hours in a focused 5th year.
+- Graduate tuition is currently ~$725 per credit (plus fees). Gordon Plus credits already taken reduce the remaining load.
+
+### Summer Strategy Summary (Local Schools)
+Use **YCCC**, **SMCC**, and other local/online options primarily for:
+- Remaining Common Core (especially BCM 101 equivalent if available, History, Philosophy)
+- Exploratory Core (Literature, Fine Arts, Social Sciences, remaining Natural Sciences)
+- Low-cost transferable electives or Psychology electives Gordon pre-approves
+
+**Front-loading is encouraged.** Taking 9–12 credits over summer (including THT 291) is feasible and accelerates progress toward the 4-year bachelor’s + master’s pathway. Confirm the 8-credit post-matriculation Core limit and get pre-approvals.
+
+### Key Action Items for Daughter
+1. Meet with Psychology advisor **and** Clinical Mental Health Counseling program director this semester or early spring for an **official degree audit** that lists every remaining Core and major requirement with exact codes.
+2. Confirm exact course codes, prerequisites, concentration checklist, and which summer community-college courses will transfer (get it in writing).
+3. Track GPA carefully (needs ≥ 3.2 for Gordon Plus).
+4. Apply for passport / renew if needed well before the THT 291 trip.
+5. Submit any required forms for Gordon Plus graduate course registration as soon as eligible.
+6. Contact YCCC / SMCC advisors early to map summer schedules that fit around THT 291.
+
+### Estimated Cost & Billing Timeline (2026–2030)
+
+| Term | Planned Courses & Credits | Gross Sticker Cost | Est. Net Cost (After $21.5k Aid) | Payment Due Date |
+| :--- | :--- | :--- | :--- | :--- |
+| **Spring 2027** | PSY 257, PSY 246, PSY 244/394 + 1–2 Core (15–18 cr) | $25,680 | ~$14,930 | Dec 15, 2026 |
+| **Summer 2027** | THT 291 (4 cr) + YCCC/SMCC (6–9 cr) | ~$5,500 + ~$1,000–1,500 | ~$6,500–7,000 (aid n/a) | Spring/May 2027 |
+| **Fall 2027** | Junior Psych + 1 Gordon Plus grad course | $27,225 | ~$16,475 | Jul 15, 2027 |
+| **Spring 2028** | Junior Psych + 1 Gordon Plus grad course | $27,225 | ~$16,475 | Dec 15, 2027 |
+| **Fall 2028** | Senior Psych + 1 Gordon Plus grad course | ~$28,178 (est. +3.5%) | ~$17,428 | Jul 15, 2028 |
+| **Spring 2029** | Senior Psych + 1 Gordon Plus grad course | ~$28,178 (est. +3.5%) | ~$17,428 | Dec 15, 2028 |
+| **Year 5 (2029–30)** | Remaining M.A. Counseling (~24 cr @ $725/cr + fees) | ~$18,000 | ~$18,000 (no undergrad aid) | Jul 15 / Dec 15, 2029 |
+
+(Note: Returning students also owe a $100 registration deposit on March 15 and $100 housing deposit on April 1 each spring. Summer community-college costs are approximate in-state rates and will vary with exact load.)
+
+---
+
+## Son – Junior at OVCS (Cornish, ME)
+
+### Academic Snapshot
+- Dual enrollment (currently ~90% average)
+  - **Messiah University MAT 105** – Pre-Calculus
+  - **YCCC MAT 124** – Statistics
+  - **SMCC MATH 260** – Calculus I (enrolled / in progress)
+- **Senior year / pre-college plan:** Calculus 2 + Calculus 3 (likely SMCC or equivalent dual-enrollment) before freshman year of college
+- Strong math trajectory is a major scholarship asset.
+
+### Testing
+- **PSAT:** 1410 (670 ERW / 740 Math)  
+- Selection Index: **208** → National Merit **Commended** (Maine Semifinalist cutoff was 214)
+
+### Athletics
+- Baseball – planning to play in college (NCAA D-III level at most schools on his list)
+
+### Target Schools (ordered preference as of Nov 2026)
+1. Gordon College  
+2. Messiah University  
+3. Geneva College  
+4. Lancaster Bible College  
+5. Cairn University  
+6. University of Maine at Farmington (UMF)  
+7. Colby-Sawyer College  
+8. Plymouth State University  
+9. Saint Joseph’s College of Maine  
+10. University of Southern Maine (USM)
+
+**Primary cluster to prioritize:** Gordon • Messiah • Saint Joseph’s
+
+### Recommended Action Plan (Next 18–24 Months)
+
+#### Junior Year (Now – Summer 2027)
+- **SAT / ACT:**  
+  **Yes – take the SAT** (and consider the ACT as a second option).  
+  - Goal: 1450+ SAT (or ACT ~32–33) to maximize merit aid at the private schools.  
+  - Recommended testing window:  
+    - First SAT: March or May 2027  
+    - Second SAT (if needed): June or August 2027  
+    - Optional ACT: April or June 2027
+- Complete dual-enrollment Calc sequence (MATH 260 this year is excellent; add Calc 2 and Calc 3 before college).
+- Complete baseball recruiting questionnaires for Gordon, Messiah, Saint Joe’s, and any other schools of interest.
+- Visit (or overnight) Gordon, Messiah, and Saint Joseph’s if possible.
+- Protect GPA – merit at most of these schools is GPA + test-score driven.
+
+#### Senior Year (2027–2028)
+- Finalize college list by early fall.
+- Submit applications (Early Action where available).
+- Complete FAFSA / CSS Profile as soon as they open.
+- Continue baseball recruiting communication with coaches.
+- Final SAT/ACT only if a higher superscore is still desired.
+- Finish Calc 2 + Calc 3 dual enrollment.
+
+### Notes on Testing Strategy
+- Most target schools are test-optional, so scores are not required.
+- With a 1410 PSAT baseline and strong math, submitting a solid SAT/ACT score is very likely to help with **merit aid**, especially at the private Christian colleges.
+- Goal: 1450+ SAT (or ACT equivalent ~32–33) to maximize scholarship leverage.
+
+---
+
+## Family Finances
+
+| Item                        | Amount          |
+|----------------------------|-----------------|
+| Daughter’s 529             | $11,095.50      |
+| Son’s 529                  | $14,549.34      |
+| Monthly contribution       | $80 each ($160 total) |
+| Parental PLUS loans        | Planning $20k/year ($65k lifetime max) |
+
+**Strategy notes**
+- Maximize the 4 years of daughter’s Presidential Scholarship.
+- Use summer community-college courses + Gordon Plus to control cost and accelerate progress.
+- Coordinate 529 draws between the two kids as needed.
+- Track the $5,500 THT 291 trip (plus passport) + additional summer community-college tuition in the 2027 summer budget.
+- Son’s strong dual-enrollment math sequence (through Calc 3) should improve his merit scholarship position and reduce overall family out-of-pocket.
+
+---
+
+## Location & School Context
+- Home ZIP: 04095  
+- Both attend OVCS in Cornish for high school  
+- Daughter currently at Gordon (Wenham, MA)
+- Local dual-enrollment / summer options: YCCC, SMCC, and other Maine institutions
+
+---
+
+*This document is a living plan. Update after each advisor meeting, score report, financial-aid award letter, or transfer-equivalency confirmation.*
