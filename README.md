@@ -1,9 +1,3 @@
-**Yes — I can refine this into a clear, actionable family planning document and give concrete steering guidance for your daughter’s accelerated path toward a Psychology bachelor’s + master’s.**
-
-Here is a cleaned-up, structured version of your draft, followed by specific recommendations.
-
-### Refined Family College Snapshot (November 2026)
-
 **Daughter (Gordon College – Psychology track aiming for Master’s)**  
 Currently enrolled at Gordon:  
 - BCM 103 A  
