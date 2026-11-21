@@ -161,17 +161,42 @@ Use **YCCC** (preferred for proximity) or **SMCC** primarily for:
 
 ### Estimated Cost & Billing Timeline (2026–2030)
 
-| Term | Planned Courses & Credits | Gross Sticker Cost | Est. Net Cost (After $21.5k Aid) | Payment Due Date |
-| :--- | :--- | :--- | :--- | :--- |
-| **Spring 2027** | PSY 246, PSY 244/394 + 1–2 Core (15–18 cr) | $25,680 | ~$14,930 | Dec 15, 2026 |
-| **Summer 2027** | THT 291 (4 cr) + YCCC/SMCC (6–9 cr) | ~$5,500 + ~$1,000–1,500 | ~$6,500–7,000 (aid n/a) | Spring/May 2027 |
-| **Fall 2027** | Junior Psych + 1–2 Gordon Plus grad courses | $27,225 | ~$16,475 | Jul 15, 2027 |
-| **Spring 2028** | Junior Psych + 1–2 Gordon Plus grad courses | $27,225 | ~$16,475 | Dec 15, 2027 |
-| **Fall 2028** | Senior Psych + remaining Gordon Plus | ~$28,178 (est. +3.5%) | ~$17,428 | Jul 15, 2028 |
-| **Spring 2029** | Senior Psych + remaining Gordon Plus | ~$28,178 (est. +3.5%) | ~$17,428 | Dec 15, 2028 |
-| **Post-May 2029** | Only remaining master’s practicum/internship if needed | Variable | Aim to minimize |
+| Term | Planned Courses & Credits | Gross / Estimated Cost | Est. Net Cost After Aid | Payment Due / Notes | Suggested Payment Source |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Spring 2027** | PSY 246, PSY 244/394 + 1–2 Core (15–18 cr) | $25,680 | ~$14,930 | Dec 15, 2026 | Parental PLUS / 529 / cash flow |
+| **Summer 2027** | THT 291 (4 cr) + YCCC/SMCC (6–9 cr) + books + fuel | THT ~$5,500 + local tuition ~$900–1,400 + books ~$200–400 + fuel/misc ~$150–300 = **~$6,750–7,600** | Full amount (no undergrad aid) | Spring 2027 deposits for THT; May–June for local classes | **See payment guidance below** |
+| **Fall 2027** | Junior Psych + 1–2 Gordon Plus | $27,225 | ~$16,475 | Jul 15, 2027 | Parental PLUS / 529 |
+| **Spring 2028** | Junior Psych + 1–2 Gordon Plus | $27,225 | ~$16,475 | Dec 15, 2027 | Parental PLUS / 529 |
+| **Fall 2028** | Senior Psych + remaining Gordon Plus | ~$28,178 | ~$17,428 | Jul 15, 2028 | Parental PLUS / 529 |
+| **Spring 2029** | Senior Psych + remaining Gordon Plus | ~$28,178 | ~$17,428 | Dec 15, 2028 | Parental PLUS / 529 |
+| **Post-May 2029** | Remaining master’s practicum/internship if needed | Variable (~$725/cr + fees) | Full amount | As billed | 529 residual / cash / loans |
 
-(Note: Returning students also owe a $100 registration deposit on March 15 and $100 housing deposit on April 1 each spring. Summer community-college costs are approximate in-state rates and will vary with exact load.)
+(Note: Returning students also owe a $100 registration deposit on March 15 and $100 housing deposit on April 1 each spring.)
+
+### How to Pay for Summer 2027 Costs (Recommended Order)
+
+**1. THT 291 (~$5,500 + passport)**  
+- This is a Gordon course / program.  
+- **Preferred:** Use **Daughter’s 529** first (qualified education expense).  
+- Secondary: Parental cash flow or short-term bridge, then reimburse from 529 if needed.  
+- Parental PLUS is generally not the best tool for summer program costs of this type.
+
+**2. Local summer classes at YCCC / SMCC (tuition + books + fuel)**  
+Approximate total: $1,250–2,100 depending on exact load.  
+- **Best option:** Pay directly from **Daughter’s 529**. Community-college tuition, required books, and related fees are qualified 529 expenses when the student is enrolled.  
+- Fuel / commuting costs are usually **not** qualified 529 expenses — pay those from regular cash flow or a small parent contribution.  
+- Avoid using Parental PLUS for these small amounts if possible; save PLUS capacity for the larger fall/spring net costs.
+
+**Practical recommendation for Summer 2027:**  
+- Withdraw the needed amount from Daughter’s 529 for THT 291 + YCCC/SMCC tuition + books.  
+- Pay fuel and minor out-of-pocket items from checking / cash flow.  
+- Keep documentation (invoices, receipts, enrollment verification) in case of any 529 distribution questions.
+
+**Overall cash-flow priority going forward:**  
+1. Use Daughter’s 529 for qualified costs (tuition, fees, books, Gordon programs).  
+2. Use Parental PLUS for the large net fall/spring balances after the Presidential Scholarship is applied.  
+3. Preserve as much of the 529 as possible for the post-bachelor’s master’s work if a 5th year is needed.  
+4. Coordinate monthly $80 contributions and any extra deposits carefully between the two 529 accounts.
 
 ---
 
@@ -251,6 +276,7 @@ Use **YCCC** (preferred for proximity) or **SMCC** primarily for:
 - Coordinate 529 draws between the two kids as needed.
 - Track the $5,500 THT 291 trip (plus passport) + additional summer community-college tuition in the 2027 summer budget.
 - Son’s strong dual-enrollment math sequence (through Calc 3) should improve his merit scholarship position and reduce overall family out-of-pocket.
+- For summer 2027 specifically: prefer Daughter’s 529 for qualified costs (THT + local tuition + books); pay fuel/misc from cash flow.
 
 ---
 
