@@ -1,6 +1,7 @@
 # Family College Planning – Harvey Kids
 
-**Last updated:** November 21, 2026
+**Last updated:** November 21, 2026  
+**Strategy focus:** Finish bachelor’s in exactly 4 years + bank maximum master’s credits (target: complete as much of the Clinical Mental Health Counseling M.A. as possible by May 2029 while fully protecting the Presidential Scholarship).
 
 ---
 
@@ -29,13 +30,13 @@
   **Add passport costs** to the budget (new passport or renewal + photos + any expedited fees).  
   Note: THT 291 can also help satisfy Fine Arts Core.
 
-### Goal
-- Bachelor’s in Psychology (Clinical Psychology concentration preferred) + Master’s in Clinical Mental Health Counseling as close to a 4-year undergraduate timeline as possible.
-- Fully utilize the Presidential Scholarship for the four undergraduate years.
-- Use **Gordon Plus** (up to 12 graduate credits during junior/senior years at no extra tuition in fall/spring).
-- Preferred outcome: Bachelor’s finished in year 4 + as many master’s credits as possible banked; finish remaining master’s work in a focused 5th year if needed.
-- **Front-load transferable Core and elective credits** via summer community-college courses to free up space for Psychology major + Gordon Plus graduate courses during the academic year.
-- Consider a complementary minor (e.g., Human Services, Sociology, or related) that strengthens preparation for the Clinical Mental Health Counseling master’s and future licensure work.
+### Aggressive 4-Year Goal
+- Bachelor’s in Psychology (Clinical Psychology concentration preferred) conferred **May 2029**.
+- Bank the full **12 Gordon Plus graduate credits** (no extra tuition in fall/spring).
+- Front-load every possible Core and lower-level requirement via summer community-college courses so junior and senior years can be almost pure Psychology major + graduate courses.
+- Maintain the credit load required to keep the Presidential Scholarship active every semester (typically full-time status; confirm exact minimum with Financial Aid — usually 12–15 credits, but aim for 15–18 to stay safely full-time and maximize progress).
+- Target: Finish bachelor’s + as many master’s courses as possible in 4 years; only practicum/internship hours (and any remaining credits) left for a short 5th year if needed.
+- Consider a complementary minor (e.g., Human Services, Sociology) that strengthens preparation for the Clinical Mental Health Counseling master’s and future licensure work.
 
 ### Gordon Core Curriculum Snapshot (for planning)
 **Common Core (still needed or in progress):**
@@ -56,13 +57,13 @@
 
 **Important limit:** After matriculation, Gordon generally allows no more than **8 credits of Core** taken off-campus. Prioritize high-value Core items for summer transfers and get pre-approval.
 
-### Recommended Course Sequence (with class codes)
+### Aggressive Recommended Course Sequence (with class codes)
 **Critical:** Confirm exact current course numbers, prerequisites, concentration requirements, remaining Core audit, and transfer equivalencies with her Psychology advisor **and** the Clinical Mental Health Counseling program director / Registrar. Codes below are drawn from recent Gordon catalogs.
 
 #### Spring 2027 (Next Semester – Sophomore Year)
 Research Methods sequence is fully satisfied. Prioritize remaining major foundations + Core + possible minor exploration:
 
-**Strong recommended package (aim 15–18 credits):**
+**Strong recommended package (aim 15–18 credits to protect Presidential Scholarship):**
 - **PSY 246** – Clinical Psychology: Psychopathology / Psychological Disorders
 - **PSY 244** or **PSY 394** – Developmental Psychology / Life Span Development
 - **One or two Core courses**, for example:
@@ -71,13 +72,13 @@ Research Methods sequence is fully satisfied. Prioritize remaining major foundat
   - **PHI 118** (or equivalent) – The Examined Life / Philosophy Core  
   - Literature course if ENG 142 did not fully satisfy the Literature Core
 - Optional: Begin exploring a minor that supports the master’s path (Human Services minor courses, Sociology, or additional counseling-related electives)
-- Keep total load in the **14–18 credit range** to protect Presidential Scholarship standing and GPA (≥ 3.2 needed for Gordon Plus)
+- Keep total load in the **15–18 credit range** to protect Presidential Scholarship standing and GPA (≥ 3.2 needed for Gordon Plus)
 
-#### Summer 2027 (Aggressive front-loading recommended)
+#### Summer 2027 (Maximum front-loading recommended)
 - **THT 291** – British Theatre Seminar (4 credits) – Gordon (also helps Fine Arts Core)
 - **Plus additional courses at local Maine schools** (YCCC preferred for proximity, or SMCC).  
 
-**She can (and should consider) taking more than 1–2 courses.** Community colleges routinely allow 9–12+ credits in summer sessions (often split across two short sessions). Gordon’s post-matriculation off-campus Core limit is typically 8 credits, so plan carefully and get **written pre-approval** from Gordon Registrar for every course.
+**She can (and should) take more than 1–2 courses.** Community colleges routinely allow 9–12+ credits in summer sessions (often split across two short sessions). Gordon’s post-matriculation off-campus Core limit is typically 8 credits, so plan carefully and get **written pre-approval** from Gordon Registrar for every course.
 
 **Specific high-value summer course suggestions (verify current availability, online options, and exact Gordon transfer equivalency before registering):**
 
@@ -101,33 +102,41 @@ Research Methods sequence is fully satisfied. Prioritize remaining major foundat
 
 Always obtain written transfer equivalency confirmation from Gordon’s Registrar **before** registering and paying.
 
-#### Fall 2027 – Spring 2028 (Junior Year)
-- Finish remaining undergraduate Psychology major + Clinical concentration requirements
+#### Fall 2027 – Spring 2028 (Junior Year – Aggressive)
+- Finish remaining undergraduate Psychology major + Clinical concentration requirements as fast as possible
 - Upper-level Psychology electives (high-priority examples that also support master’s readiness):
   - **PSY 281** – Drugs and Behavior / Introduction to Psychopharmacology
   - **PSY 349** – Physiological Psychology
   - **PSY 340** – Personality Theories
   - **PSY 342** – Cognitive Psychology
   - **PSY 311** – Developmental Disabilities (if available and fits concentration)
-- Begin **Gordon Plus** graduate courses once eligible (junior standing + ≥ 3.2 GPA). Strong early options:
-  - **PSY 650** – Psychopharmacology and Care
-  - **PSY 670** – Emotion, Thought and Behavior
-  - **PSY 630** – Group Dynamics and Therapy
+- **Start Gordon Plus immediately** once junior standing + ≥ 3.2 GPA is confirmed. Take graduate courses to bank the full 12-credit lifetime maximum by the end of senior year.
+  - Strong early options: **PSY 650** – Psychopharmacology and Care, **PSY 670** – Emotion, Thought and Behavior, **PSY 630** – Group Dynamics and Therapy
 - Aim to bank **6–8 graduate credits** this year
 - Explore or continue a complementary minor (Human Services is particularly relevant for counseling careers; Sociology or related also helpful)
+- Maintain **15–18 credits every semester** (mix of undergrad + Gordon Plus grad courses counts toward full-time status for the Presidential Scholarship — confirm with Financial Aid)
 - Any final Core cleanup that could not be completed in summer
 
-#### Fall 2028 – Spring 2029 (Senior Year)
+#### Fall 2028 – Spring 2029 (Senior Year – Maximum graduate load)
 - Complete all remaining undergraduate requirements (bachelor’s conferred May 2029)
-- Take remaining Gordon Plus graduate credits (up to the 12-credit lifetime maximum)
+- Take the remaining Gordon Plus graduate credits (aim to complete the full 12 by May 2029)
 - Undergraduate internship / senior seminar if required (**PSY 425** or equivalent)
 - Formally apply to the M.A. in Clinical Mental Health Counseling
 - Finish any minor requirements
+- Maintain full-time status (15–18 credits) every semester so the Presidential Scholarship continues through the entire 4th year
 - Any final Core or elective cleanup
 
-#### Post-Bachelor’s (if needed – Year 5)
-- Finish remaining master’s credits + practicum/internship hours in a focused 5th year.
-- Graduate tuition is currently ~$725 per credit (plus fees). Gordon Plus credits already taken reduce the remaining load.
+**By May 2029 target:**
+- Bachelor’s degree conferred
+- Full 12 Gordon Plus graduate credits completed
+- As many additional master’s courses as the schedule and approvals allow
+- Only practicum, internship hours, and any remaining credits left for a short post-baccalaureate period if needed
+
+### Scholarship Protection Rules (Critical)
+- The Presidential Scholarship requires full-time enrollment each semester it is applied.
+- Confirm the exact minimum credit load with Gordon Financial Aid (typically 12 credits, but 15+ is safer and accelerates the plan).
+- Gordon Plus graduate courses taken during fall/spring count toward full-time status and do **not** cost extra tuition.
+- Do **not** drop below the required load in any semester or the scholarship can be lost for that term.
 
 ### Notes on Minors & Master’s Preparation
 Courses or a minor in **Human Services**, **Sociology**, ethics/philosophy, developmental psychology, multicultural topics, or a world language (French or especially Spanish) can strengthen preparation for the Clinical Mental Health Counseling master’s and future clinical work with diverse clients. Discuss minor options with the Psychology advisor early.
@@ -139,15 +148,16 @@ Use **YCCC** (preferred for proximity) or **SMCC** primarily for:
 - Low-cost transferable electives or Psychology electives Gordon pre-approves
 - Language (FREN 101 or Spanish equivalent) for both Core credit and career utility in counseling
 
-**Front-loading is encouraged.** Taking 9–12 credits over summer (including THT 291) is feasible and accelerates progress toward the 4-year bachelor’s + master’s pathway. Confirm the 8-credit post-matriculation Core limit and get pre-approvals.
+**Front-loading is strongly encouraged.** Taking 9–12 credits over summer (including THT 291) is feasible and accelerates progress toward the 4-year bachelor’s + master’s pathway. Confirm the 8-credit post-matriculation Core limit and get pre-approvals.
 
 ### Key Action Items for Daughter
 1. Meet with Psychology advisor **and** Clinical Mental Health Counseling program director this semester or early spring for an **official degree audit** that lists every remaining Core and major requirement with exact codes. Confirm that Research Methods II is fully satisfied.
-2. Confirm exact course codes, prerequisites, concentration checklist, and which summer community-college courses will transfer (get it in writing). Ask specifically about Human Services or Sociology minor fit.
-3. Track GPA carefully (needs ≥ 3.2 for Gordon Plus).
-4. Apply for passport / renew if needed well before the THT 291 trip.
-5. Submit any required forms for Gordon Plus graduate course registration as soon as eligible.
-6. Contact YCCC / SMCC advisors early to map summer schedules (PHI 102, HIS sequences, FREN 101, literature, etc.) that fit around THT 291.
+2. Ask Financial Aid in writing: “What is the exact minimum credit load each semester to keep the Presidential Scholarship?”
+3. Confirm exact course codes, prerequisites, concentration checklist, and which summer community-college courses will transfer (get it in writing). Ask specifically about Human Services or Sociology minor fit.
+4. Track GPA carefully (needs ≥ 3.2 for Gordon Plus).
+5. Apply for passport / renew if needed well before the THT 291 trip.
+6. Submit any required forms for Gordon Plus graduate course registration as soon as eligible.
+7. Contact YCCC / SMCC advisors early to map summer schedules (PHI 102, HIS sequences, FREN 101, literature, etc.) that fit around THT 291.
 
 ### Estimated Cost & Billing Timeline (2026–2030)
 
@@ -155,11 +165,11 @@ Use **YCCC** (preferred for proximity) or **SMCC** primarily for:
 | :--- | :--- | :--- | :--- | :--- |
 | **Spring 2027** | PSY 246, PSY 244/394 + 1–2 Core (15–18 cr) | $25,680 | ~$14,930 | Dec 15, 2026 |
 | **Summer 2027** | THT 291 (4 cr) + YCCC/SMCC (6–9 cr) | ~$5,500 + ~$1,000–1,500 | ~$6,500–7,000 (aid n/a) | Spring/May 2027 |
-| **Fall 2027** | Junior Psych + 1 Gordon Plus grad course | $27,225 | ~$16,475 | Jul 15, 2027 |
-| **Spring 2028** | Junior Psych + 1 Gordon Plus grad course | $27,225 | ~$16,475 | Dec 15, 2027 |
-| **Fall 2028** | Senior Psych + 1 Gordon Plus grad course | ~$28,178 (est. +3.5%) | ~$17,428 | Jul 15, 2028 |
-| **Spring 2029** | Senior Psych + 1 Gordon Plus grad course | ~$28,178 (est. +3.5%) | ~$17,428 | Dec 15, 2028 |
-| **Year 5 (2029–30)** | Remaining M.A. Counseling (~24 cr @ $725/cr + fees) | ~$18,000 | ~$18,000 (no undergrad aid) | Jul 15 / Dec 15, 2029 |
+| **Fall 2027** | Junior Psych + 1–2 Gordon Plus grad courses | $27,225 | ~$16,475 | Jul 15, 2027 |
+| **Spring 2028** | Junior Psych + 1–2 Gordon Plus grad courses | $27,225 | ~$16,475 | Dec 15, 2027 |
+| **Fall 2028** | Senior Psych + remaining Gordon Plus | ~$28,178 (est. +3.5%) | ~$17,428 | Jul 15, 2028 |
+| **Spring 2029** | Senior Psych + remaining Gordon Plus | ~$28,178 (est. +3.5%) | ~$17,428 | Dec 15, 2028 |
+| **Post-May 2029** | Only remaining master’s practicum/internship if needed | Variable | Aim to minimize |
 
 (Note: Returning students also owe a $100 registration deposit on March 15 and $100 housing deposit on April 1 each spring. Summer community-college costs are approximate in-state rates and will vary with exact load.)
 
@@ -236,7 +246,7 @@ Use **YCCC** (preferred for proximity) or **SMCC** primarily for:
 | Parental PLUS loans        | Planning $20k/year ($65k lifetime max) |
 
 **Strategy notes**
-- Maximize the 4 years of daughter’s Presidential Scholarship.
+- Maximize the full 4 years of daughter’s Presidential Scholarship.
 - Use summer community-college courses + Gordon Plus to control cost and accelerate progress.
 - Coordinate 529 draws between the two kids as needed.
 - Track the $5,500 THT 291 trip (plus passport) + additional summer community-college tuition in the 2027 summer budget.
@@ -252,4 +262,4 @@ Use **YCCC** (preferred for proximity) or **SMCC** primarily for:
 
 ---
 
-*This document is a living plan. Update after each advisor meeting, score report, financial-aid award letter, or transfer-equivalency confirmation.*
+*This document is a living plan focused on finishing the bachelor’s in 4 years while banking maximum master’s credits and protecting the Presidential Scholarship. Update after each advisor meeting, score report, financial-aid award letter, or transfer-equivalency confirmation. The single most important next step is the official degree audit + written confirmation from Financial Aid on the exact credit load required to keep the Presidential Scholarship every semester.*
