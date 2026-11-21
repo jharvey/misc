@@ -27,21 +27,56 @@
   Add passport costs to budget.
 
 ### Goal
-- Bachelor’s in Psychology + Master’s (targeting Clinical Mental Health Counseling or related) as close to a 4-year timeline as possible.
+- Bachelor’s in Psychology + Master’s (targeting Clinical Mental Health Counseling) as close to a 4-year timeline as possible.
 - Fully utilize the Presidential Scholarship for the four undergraduate years.
-- Option: finish bachelor’s in year 4 and complete remaining master’s work with 1–2 classes in a 5th year if needed.
-- Graduate classes require advisor/registrar approval. Gordon Plus allows up to 12 graduate credits during junior/senior years (no extra tuition in fall/spring if within the 12–20 credit block).
+- Use **Gordon Plus** (up to 12 graduate credits during junior/senior years at no extra tuition in fall/spring).
+- Preferred outcome: Bachelor’s finished in year 4 + as many master’s credits as possible banked.
 
-### Summer / Transfer Options
-Can take classes online at Gordon or at lower cost at:
-- YCCC
-- SMCC
-- Other Maine institutions
+### Recommended Course Sequence (with class codes)
+**Critical:** Confirm exact current course numbers and prerequisites with her Psychology advisor. Codes below are the most commonly used in recent Gordon catalogs.
 
-### Key Next Steps
-1. Degree audit + Gordon Plus discussion with Psychology advisor and Clinical Mental Health Counseling program director.
-2. Confirm Clinical Psychology concentration.
-3. Map remaining Core + major requirements and identify summer community-college courses that will transfer.
+#### Spring 2027 (Next Semester)
+Aim for a full-time load (~16 credits) focused on foundations:
+- **PSY 256** – Research Methods I (or current equivalent)
+- **PSY 245** – Life Span Developmental Psychology (or PSY 244 / PSY 394)
+- **PSY 246** – Clinical Psychology: Psychopathology / Psychological Disorders
+- Remaining Core Curriculum course(s) (Bible/Theology, History, Literature, etc.)
+- Keep total load in the 14–18 credit range to protect Presidential Scholarship
+
+#### Summer 2027
+- **THT 291** – British Theatre Seminar (4 credits)
+- 1–2 transferable courses at **YCCC or SMCC** (confirm transferability first). Good targets:
+  - Any remaining Core / gen-ed requirements
+  - Additional Psychology elective Gordon will accept
+  - Statistics follow-up if the Messiah Stats credit needs reinforcement
+
+#### Fall 2027 – Spring 2028 (Junior Year)
+- Finish remaining undergraduate Psychology major + Clinical concentration requirements
+- **PSY 257** – Research Methods II (if not completed)
+- Upper-level Psychology electives (examples that frequently appear):
+  - PSY 281 – Drugs and Behavior / Introduction to Psychopharmacology
+  - PSY 349 – Physiological Psychology
+  - PSY 340 – Personality Theories
+  - PSY 342 – Cognitive Psychology
+- Begin **Gordon Plus** graduate courses once eligible (junior standing + ≥ 3.2 GPA). Strong early options:
+  - **PSY 650** – Psychopharmacology and Care
+  - **PSY 670** – Emotion, Thought and Behavior
+  - **PSY 630** – Group Dynamics and Therapy
+- Aim to bank 6–8 graduate credits this year
+
+#### Fall 2028 – Spring 2029 (Senior Year)
+- Complete all remaining undergraduate requirements (bachelor’s conferred May 2029)
+- Take remaining Gordon Plus graduate credits (up to the 12-credit lifetime maximum)
+- Undergraduate internship / senior seminar if required (often PSY 425 or similar)
+- Formally apply to the M.A. in Clinical Mental Health Counseling
+
+#### Post-Bachelor’s (if needed)
+- Finish remaining master’s credits + practicum/internship hours in a focused 5th year.
+
+### Key Action Items for Daughter
+1. Meet with Psychology advisor **and** Clinical Mental Health Counseling program director this semester or early spring for official degree audit.
+2. Confirm exact course codes, prerequisites, and which summer community-college courses will transfer.
+3. Track GPA carefully (needs ≥ 3.2 for Gordon Plus).
 
 ---
 
@@ -53,33 +88,49 @@ Can take classes online at Gordon or at lower cost at:
   - YCCC MAT 124 – Statistics
 - Spring 2027: SMCC Calculus 1  
 - Senior year plan: Calculus 2 + Calculus 3  
-- Strong math trajectory is a major scholarship asset.
 
 ### Testing
 - **PSAT:** 1410 (670 ERW / 740 Math)  
-- Selection Index: **208** → National Merit **Commended** (Maine Semifinalist cutoff was 214)
+- Selection Index: **208** → National Merit **Commended**
 
 ### Athletics
-- Baseball – planning to play in college (NCAA D-III level at most schools on his list)
+- Baseball – planning to play in college (NCAA D-III)
 
-### Target Schools (ordered preference as of Nov 2026)
-1. Gordon College
-2. Messiah University
-3. Geneva College
-4. Lancaster Bible College
-5. Cairn University
-6. University of Maine at Farmington (UMF)
-7. Colby-Sawyer College
-8. Plymouth State University
-9. Saint Joseph’s College of Maine
+### Target Schools (ordered preference)
+1. Gordon College  
+2. Messiah University  
+3. Geneva College  
+4. Lancaster Bible College  
+5. Cairn University  
+6. University of Maine at Farmington (UMF)  
+7. Colby-Sawyer College  
+8. Plymouth State University  
+9. Saint Joseph’s College of Maine  
 10. University of Southern Maine (USM)
 
-**Primary cluster to prioritize right now:** Gordon • Messiah • Saint Joseph’s
+**Primary cluster:** Gordon • Messiah • Saint Joseph’s
 
-### Notes on the List
-- Most schools are NCAA D-III → no athletic scholarships, but roster spots and coach relationships still matter.
-- Strong dual-enrollment Calc sequence + Commended status + solid GPA should generate meaningful academic merit at the private schools.
-- Maine publics (UMF, USM, Saint Joe’s) offer resident tuition advantages and additional merit opportunities.
+### Recommended Action Plan (Next 18–24 Months)
+
+#### Junior Year (Now – Summer 2027)
+- **SAT / ACT:**  
+  **Yes – take the SAT** (and consider the ACT as a second option).  
+  - Goal: 1450+ SAT (or ACT ~32–33) to maximize merit aid at the private schools.  
+  - Recommended testing window:  
+    - First SAT: March or May 2027  
+    - Second SAT (if needed): June or August 2027  
+    - Optional ACT: April or June 2027
+- Continue dual-enrollment Calc sequence.
+- Complete baseball recruiting questionnaires for Gordon, Messiah, Saint Joe’s, etc.
+- Visit (or overnight) Gordon, Messiah, and Saint Joseph’s if possible.
+- Protect GPA – merit at most of these schools is GPA + test-score driven.
+
+#### Senior Year (2027–2028)
+- Finalize college list by early fall.
+- Submit applications (Early Action where available).
+- Complete FAFSA / CSS Profile as soon as they open.
+- Continue baseball recruiting communication.
+- Final SAT/ACT only if a higher superscore is still desired.
 
 ---
 
