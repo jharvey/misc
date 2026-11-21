@@ -11,13 +11,14 @@
 - Courses this semester:
   - BCM 103 A (New Testament – Common Core)
   - COR 107 J (The Great Conversation – First-Year Seminar)
-  - **PSY 322** (Counseling Theory & Practice) – currently A / 100% midterm
+  - **PSY 322** (Counseling Theory & Practice) – currently A / 100% midterm (strong performance)
   - ENG 142 Q1 + Q2
   - PED 105 D
 
 ### Transfer Credits Already Applied
 - Messiah – Stats 269 → accepted as **PSY 256 (Research Methods I)**  
-  (This is why she was able to enroll in PSY 322; PSY 256 or its equivalent is treated as a prerequisite/foundation for PSY 322)
+  (This satisfied the Research Methods foundation and allowed enrollment in PSY 322)
+- Additional class completed that fully removed the need for **PSY 257 (Research Methods II)**
 - Sofia – CHEM 101 (likely helps toward Natural Sciences / Scientific Enterprise area)
 - Liberty – Physics 101 (PHY 101) (Natural Sciences)
 - Liberty – Psych 101 (Social Sciences / Psychology foundation)
@@ -34,6 +35,7 @@
 - Use **Gordon Plus** (up to 12 graduate credits during junior/senior years at no extra tuition in fall/spring).
 - Preferred outcome: Bachelor’s finished in year 4 + as many master’s credits as possible banked; finish remaining master’s work in a focused 5th year if needed.
 - **Front-load transferable Core and elective credits** via summer community-college courses to free up space for Psychology major + Gordon Plus graduate courses during the academic year.
+- Consider a complementary minor (e.g., Human Services, Sociology, or related) that strengthens preparation for the Clinical Mental Health Counseling master’s and future licensure work.
 
 ### Gordon Core Curriculum Snapshot (for planning)
 **Common Core (still needed or in progress):**
@@ -41,7 +43,7 @@
 - BCM 308 – Christian Theology – still needed
 - HIS 121 – Historical Perspectives on Culture, Belief and Civilization – still needed
 - NSM 202 – The Scientific Enterprise – may be partially covered by existing science transfers; confirm
-- World Language (0–8 credits) – status unknown; validate or complete if needed
+- World Language (0–8 credits) – status unknown; validate or complete if needed (French or Spanish recommended for counseling career utility)
 - La Vida / Discovery – status unknown
 
 **Exploratory Core (still needed):**
@@ -58,10 +60,9 @@
 **Critical:** Confirm exact current course numbers, prerequisites, concentration requirements, remaining Core audit, and transfer equivalencies with her Psychology advisor **and** the Clinical Mental Health Counseling program director / Registrar. Codes below are drawn from recent Gordon catalogs.
 
 #### Spring 2027 (Next Semester – Sophomore Year)
-Because PSY 256 has already been satisfied via transfer, prioritize remaining foundations + Core:
+Research Methods sequence is fully satisfied. Prioritize remaining major foundations + Core + possible minor exploration:
 
 **Strong recommended package (aim 15–18 credits):**
-- **PSY 257** – Research Methods II (next logical step after PSY 256)
 - **PSY 246** – Clinical Psychology: Psychopathology / Psychological Disorders
 - **PSY 244** or **PSY 394** – Developmental Psychology / Life Span Development
 - **One or two Core courses**, for example:
@@ -69,35 +70,40 @@ Because PSY 256 has already been satisfied via transfer, prioritize remaining fo
   - **HIS 121** – Historical Perspectives  
   - **PHI 118** (or equivalent) – The Examined Life / Philosophy Core  
   - Literature course if ENG 142 did not fully satisfy the Literature Core
+- Optional: Begin exploring a minor that supports the master’s path (Human Services minor courses, Sociology, or additional counseling-related electives)
 - Keep total load in the **14–18 credit range** to protect Presidential Scholarship standing and GPA (≥ 3.2 needed for Gordon Plus)
 
 #### Summer 2027 (Aggressive front-loading recommended)
 - **THT 291** – British Theatre Seminar (4 credits) – Gordon (also helps Fine Arts Core)
-- **Plus additional courses at local Maine schools** (YCCC, SMCC, or other approved institutions).  
+- **Plus additional courses at local Maine schools** (YCCC preferred for proximity, or SMCC).  
 
 **She can (and should consider) taking more than 1–2 courses.** Community colleges routinely allow 9–12+ credits in summer sessions (often split across two short sessions). Gordon’s post-matriculation off-campus Core limit is typically 8 credits, so plan carefully and get **written pre-approval** from Gordon Registrar for every course.
 
-**High-value summer transfer targets at YCCC / SMCC (examples – always verify current equivalency):**
+**Specific high-value summer course suggestions (verify current availability, online options, and exact Gordon transfer equivalency before registering):**
 
-| Priority | Suggested Local Course Examples | Likely Gordon Core / Use | Notes |
-|----------|---------------------------------|---------------------------|-------|
-| High | HIS 101 / HIS 102 (Western Civ) or U.S. History sequences | Historical Perspectives / Social Sciences | Strong candidates for HIS 121 or related |
-| High | PHI 102 – Ethics in Contemporary Society (YCCC) or equivalent | Philosophy Core | Excellent match |
-| High | ENG literature courses (American Lit, World Lit, Shakespeare, etc.) | Literature Core | Confirm if ENG 142 already covered this |
-| Medium | ART 110 Art Appreciation, MUS 101 Music Appreciation, Drawing, etc. | Fine Arts | Backup if THT 291 does not fully cover |
-| Medium | SOC 101 Introduction to Sociology, additional PSY electives (e.g., Social Psychology, Abnormal if not redundant) | Social Sciences / Psychology elective | Useful if Social Sciences still open |
-| Lower / Elective | Additional science or math if NSM 202 still needed | Natural Sciences / Scientific Enterprise | Only if Chem + Physics did not fully satisfy |
+**YCCC (York County Community College) recommendations:**
+- **PHI 102** – Ethics in Contemporary Society → strong candidate for Philosophy Core
+- **HIS 110** – United States History to 1877 or **HIS 120** – United States History II 1877–present or **HIS 101/102** Western Civilization sequences → Historical Perspectives / Social Sciences
+- **ENG** literature options (e.g., American Literature, World Literature, Shakespeare if offered) → Literature Core
+- **SOC 101** – Introduction to Sociology → Social Sciences / supports Human Services or Sociology minor interest
+- Additional PSY electives if available and non-redundant (e.g., Social Psychology, Developmental, Abnormal) → major electives or concentration support
+
+**SMCC (Southern Maine Community College) recommendations:**
+- **FREN 101** – Beginning French I (4 credits) → helps fulfill World Language Core (French is useful for counseling diversity; Spanish is also highly recommended if available)
+- History / Literature / Philosophy equivalents as available
+- Sociology or Human Services related courses if offered
 
 **Practical summer load suggestion:**
 - THT 291 (4 cr) + 2–3 local courses (6–9 cr) = 10–13 credits total is realistic and beneficial.
 - Prefer online or short-session formats so they do not conflict with the British Theatre trip.
-- Goal: Clear as many Exploratory + remaining Common Core items as possible so junior/senior years can focus on Psychology major courses + Gordon Plus graduate credits.
+- Priority order for Core: Philosophy (PHI 102), History, Literature, then Language (FREN 101 or Spanish equivalent).
+- Goal: Clear as many Exploratory + remaining Common Core items as possible so junior/senior years can focus on Psychology major courses + Gordon Plus graduate credits + possible minor.
 
 Always obtain written transfer equivalency confirmation from Gordon’s Registrar **before** registering and paying.
 
 #### Fall 2027 – Spring 2028 (Junior Year)
 - Finish remaining undergraduate Psychology major + Clinical concentration requirements
-- Upper-level Psychology electives (high-priority examples):
+- Upper-level Psychology electives (high-priority examples that also support master’s readiness):
   - **PSY 281** – Drugs and Behavior / Introduction to Psychopharmacology
   - **PSY 349** – Physiological Psychology
   - **PSY 340** – Personality Theories
@@ -108,6 +114,7 @@ Always obtain written transfer equivalency confirmation from Gordon’s Registra
   - **PSY 670** – Emotion, Thought and Behavior
   - **PSY 630** – Group Dynamics and Therapy
 - Aim to bank **6–8 graduate credits** this year
+- Explore or continue a complementary minor (Human Services is particularly relevant for counseling careers; Sociology or related also helpful)
 - Any final Core cleanup that could not be completed in summer
 
 #### Fall 2028 – Spring 2029 (Senior Year)
@@ -115,33 +122,38 @@ Always obtain written transfer equivalency confirmation from Gordon’s Registra
 - Take remaining Gordon Plus graduate credits (up to the 12-credit lifetime maximum)
 - Undergraduate internship / senior seminar if required (**PSY 425** or equivalent)
 - Formally apply to the M.A. in Clinical Mental Health Counseling
+- Finish any minor requirements
 - Any final Core or elective cleanup
 
 #### Post-Bachelor’s (if needed – Year 5)
 - Finish remaining master’s credits + practicum/internship hours in a focused 5th year.
 - Graduate tuition is currently ~$725 per credit (plus fees). Gordon Plus credits already taken reduce the remaining load.
 
+### Notes on Minors & Master’s Preparation
+Courses or a minor in **Human Services**, **Sociology**, ethics/philosophy, developmental psychology, multicultural topics, or a world language (French or especially Spanish) can strengthen preparation for the Clinical Mental Health Counseling master’s and future clinical work with diverse clients. Discuss minor options with the Psychology advisor early.
+
 ### Summer Strategy Summary (Local Schools)
-Use **YCCC**, **SMCC**, and other local/online options primarily for:
-- Remaining Common Core (especially BCM 101 equivalent if available, History, Philosophy)
+Use **YCCC** (preferred for proximity) or **SMCC** primarily for:
+- Remaining Common Core (History, Philosophy, Language)
 - Exploratory Core (Literature, Fine Arts, Social Sciences, remaining Natural Sciences)
 - Low-cost transferable electives or Psychology electives Gordon pre-approves
+- Language (FREN 101 or Spanish equivalent) for both Core credit and career utility in counseling
 
 **Front-loading is encouraged.** Taking 9–12 credits over summer (including THT 291) is feasible and accelerates progress toward the 4-year bachelor’s + master’s pathway. Confirm the 8-credit post-matriculation Core limit and get pre-approvals.
 
 ### Key Action Items for Daughter
-1. Meet with Psychology advisor **and** Clinical Mental Health Counseling program director this semester or early spring for an **official degree audit** that lists every remaining Core and major requirement with exact codes.
-2. Confirm exact course codes, prerequisites, concentration checklist, and which summer community-college courses will transfer (get it in writing).
+1. Meet with Psychology advisor **and** Clinical Mental Health Counseling program director this semester or early spring for an **official degree audit** that lists every remaining Core and major requirement with exact codes. Confirm that Research Methods II is fully satisfied.
+2. Confirm exact course codes, prerequisites, concentration checklist, and which summer community-college courses will transfer (get it in writing). Ask specifically about Human Services or Sociology minor fit.
 3. Track GPA carefully (needs ≥ 3.2 for Gordon Plus).
 4. Apply for passport / renew if needed well before the THT 291 trip.
 5. Submit any required forms for Gordon Plus graduate course registration as soon as eligible.
-6. Contact YCCC / SMCC advisors early to map summer schedules that fit around THT 291.
+6. Contact YCCC / SMCC advisors early to map summer schedules (PHI 102, HIS sequences, FREN 101, literature, etc.) that fit around THT 291.
 
 ### Estimated Cost & Billing Timeline (2026–2030)
 
 | Term | Planned Courses & Credits | Gross Sticker Cost | Est. Net Cost (After $21.5k Aid) | Payment Due Date |
 | :--- | :--- | :--- | :--- | :--- |
-| **Spring 2027** | PSY 257, PSY 246, PSY 244/394 + 1–2 Core (15–18 cr) | $25,680 | ~$14,930 | Dec 15, 2026 |
+| **Spring 2027** | PSY 246, PSY 244/394 + 1–2 Core (15–18 cr) | $25,680 | ~$14,930 | Dec 15, 2026 |
 | **Summer 2027** | THT 291 (4 cr) + YCCC/SMCC (6–9 cr) | ~$5,500 + ~$1,000–1,500 | ~$6,500–7,000 (aid n/a) | Spring/May 2027 |
 | **Fall 2027** | Junior Psych + 1 Gordon Plus grad course | $27,225 | ~$16,475 | Jul 15, 2027 |
 | **Spring 2028** | Junior Psych + 1 Gordon Plus grad course | $27,225 | ~$16,475 | Dec 15, 2027 |
