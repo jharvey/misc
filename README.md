@@ -16,7 +16,8 @@
   - PED 105 D
 
 ### Transfer Credits Already Applied
-- Messiah – Stats 269
+- Messiah – Stats 269 → accepted as **PSY 256 (Research Methods I)**  
+  (This is why she was able to enroll in PSY 322; PSY 256 or its equivalent is treated as a prerequisite/foundation for PSY 322)
 - Sofia – CHEM 101
 - Liberty – Physics 101 (PHY 101)
 - Liberty – Psych 101
@@ -30,14 +31,14 @@
 - Bachelor’s in Psychology + Master’s (targeting Clinical Mental Health Counseling) as close to a 4-year timeline as possible.
 - Fully utilize the Presidential Scholarship for the four undergraduate years.
 - Use **Gordon Plus** (up to 12 graduate credits during junior/senior years at no extra tuition in fall/spring).
-- Preferred outcome: Bachelor’s finished in year 4 + as many master’s credits as possible banked.
+- Preferred outcome: Bachelor’s finished in year 4 + as many master’s credits as possible banked; finish remaining master’s work in a short 5th year if needed.
 
 ### Recommended Course Sequence (with class codes)
 **Critical:** Confirm exact current course numbers and prerequisites with her Psychology advisor. Codes below are the most commonly used in recent Gordon catalogs.
 
 #### Spring 2027 (Next Semester)
-Aim for a full-time load (~16 credits) focused on foundations:
-- **PSY 256** – Research Methods I (or current equivalent)
+Because PSY 256 has already been satisfied via transfer, she can move forward with other foundations and upper-level work:
+- **PSY 257** – Research Methods II (logical next step after PSY 256)
 - **PSY 245** – Life Span Developmental Psychology (or PSY 244 / PSY 394)
 - **PSY 246** – Clinical Psychology: Psychopathology / Psychological Disorders
 - Remaining Core Curriculum course(s) (Bible/Theology, History, Literature, etc.)
@@ -48,11 +49,9 @@ Aim for a full-time load (~16 credits) focused on foundations:
 - 1–2 transferable courses at **YCCC or SMCC** (confirm transferability first). Good targets:
   - Any remaining Core / gen-ed requirements
   - Additional Psychology elective Gordon will accept
-  - Statistics follow-up if the Messiah Stats credit needs reinforcement
 
 #### Fall 2027 – Spring 2028 (Junior Year)
 - Finish remaining undergraduate Psychology major + Clinical concentration requirements
-- **PSY 257** – Research Methods II (if not completed)
 - Upper-level Psychology electives (examples that frequently appear):
   - PSY 281 – Drugs and Behavior / Introduction to Psychopharmacology
   - PSY 349 – Physiological Psychology
@@ -88,15 +87,16 @@ Aim for a full-time load (~16 credits) focused on foundations:
   - YCCC MAT 124 – Statistics
 - Spring 2027: SMCC Calculus 1  
 - Senior year plan: Calculus 2 + Calculus 3  
+- Strong math trajectory is a major scholarship asset.
 
 ### Testing
 - **PSAT:** 1410 (670 ERW / 740 Math)  
-- Selection Index: **208** → National Merit **Commended**
+- Selection Index: **208** → National Merit **Commended** (Maine Semifinalist cutoff was 214)
 
 ### Athletics
-- Baseball – planning to play in college (NCAA D-III)
+- Baseball – planning to play in college (NCAA D-III level at most schools on his list)
 
-### Target Schools (ordered preference)
+### Target Schools (ordered preference as of Nov 2026)
 1. Gordon College  
 2. Messiah University  
 3. Geneva College  
@@ -108,7 +108,7 @@ Aim for a full-time load (~16 credits) focused on foundations:
 9. Saint Joseph’s College of Maine  
 10. University of Southern Maine (USM)
 
-**Primary cluster:** Gordon • Messiah • Saint Joseph’s
+**Primary cluster to prioritize:** Gordon • Messiah • Saint Joseph’s
 
 ### Recommended Action Plan (Next 18–24 Months)
 
@@ -120,8 +120,8 @@ Aim for a full-time load (~16 credits) focused on foundations:
     - First SAT: March or May 2027  
     - Second SAT (if needed): June or August 2027  
     - Optional ACT: April or June 2027
-- Continue dual-enrollment Calc sequence.
-- Complete baseball recruiting questionnaires for Gordon, Messiah, Saint Joe’s, etc.
+- Continue dual-enrollment Calc sequence (Calc 1 this spring is excellent).
+- Complete baseball recruiting questionnaires for Gordon, Messiah, Saint Joe’s, and any other schools of interest.
 - Visit (or overnight) Gordon, Messiah, and Saint Joseph’s if possible.
 - Protect GPA – merit at most of these schools is GPA + test-score driven.
 
@@ -129,8 +129,13 @@ Aim for a full-time load (~16 credits) focused on foundations:
 - Finalize college list by early fall.
 - Submit applications (Early Action where available).
 - Complete FAFSA / CSS Profile as soon as they open.
-- Continue baseball recruiting communication.
+- Continue baseball recruiting communication with coaches.
 - Final SAT/ACT only if a higher superscore is still desired.
+
+### Notes on Testing Strategy
+- Most target schools are test-optional, so scores are not required.
+- With a 1410 PSAT baseline and strong math, submitting a solid SAT/ACT score is very likely to help with **merit aid**, especially at the private Christian colleges.
+- Goal: 1450+ SAT (or ACT equivalent ~32–33) to maximize scholarship leverage.
 
 ---
 
