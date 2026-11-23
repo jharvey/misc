@@ -118,7 +118,13 @@ Gordon Plus graduate credits count toward both degrees, so the 12 grad credits f
 | **Spring&nbsp;2028** | $27,225 | $10,750 | — | $1,885 | $9,577 | $3,750 | **$1,263** |
 | **Fall&nbsp;2028**&nbsp;⚠️ | $28,178 | $10,750 | — | $640 | $9,577 | $3,750 | **$3,461** |
 | **Spring&nbsp;2029** | $28,178 | $10,750 | — | $320 | $9,577 | $3,750 | **$3,781** |
-| **Total** | **$169,541** | **$64,500** | **$2,603** | **$13,096** | **$57,462** | **$20,500** | **$11,380** |
+| **B.A.&nbsp;total** | **$169,541** | **$64,500** | **$2,603** | **$13,096** | **$57,462** | **$20,500** | **$11,380** |
+| ***M.A.&nbsp;+1&nbsp;year*** | | | | | | | |
+| **Summer&nbsp;2029** | $4,320 | — | — | $480 | — | — | **$3,840** |
+| **Fall&nbsp;2029** | $10,800 | — | — | — | — | $10,250 | **$550** |
+| **Spring&nbsp;2030** | $10,800 | — | — | — | — | $10,250 | **$550** |
+| **M.A.&nbsp;total** | **$25,920** | — | — | **$480** | — | **$20,500** | **$4,940** |
+| **4&#8209;year&nbsp;total** | **$195,461** | **$64,500** | **$2,603** | **$13,576** | **$57,462** | **$41,000** | **$16,320** |
 
 ¹ Fall 2026 other scholarships: ~$2,603, worked out as whatever was left after the Presidential Scholarship, $10k PLUS and her fall loan, with no 529 and no cash. Replace it with the real figure from her aid statement. Add any new outside or departmental scholarships in this column; every dollar here comes straight off the out-of-pocket (or 529/PLUS) amount for that term.
 
@@ -126,7 +132,23 @@ Gordon Plus graduate credits count toward both degrees, so the 12 grad credits f
 
 **Pay by:** fall bills in Aug; spring bills in Dec (or early Jan) before the term; summer May–Aug. **P Schol** = Presidential Scholarship, **Schol** = her other scholarships.
 
-**+1 grad year (Summer 2029 – Summer 2030):** 36 cr × ~$720 ≈ **$25,920** if 24 credits overlap (48 cr ≈ $34,560 if only 12). Funded by ~$400 leftover 529 + her unsubsidized grad loans (≤ $20,500/yr; Parent PLUS isn't allowed for grad school) → **~$5,000 out of pocket**. With only 12 overlapping it spans 2 loan years, so out of pocket is ~$0–14,000. Paid per term.
+**M.A. +1 year:** assumes 24 grad credits overlap during undergrad, leaving 36 credits at ~$720 each: 6 in Summer 2029, then 15 in fall and 15 in spring. Her loan here is her own unsubsidized grad loan (≤ $20,500/yr, split $10,250 per semester); Parent PLUS isn't allowed for grad school. The 529 has only the Jan–Jun 2029 deposits (~$480) left. If only 12 credits overlap, it's 48 credits (≈ $34,560) over 2 loan years, so out of pocket is ~$0–14,000.
+
+#### Backup: if the B.A. takes 4 years
+
+If the 3-year plan slips, Fall 2029 and Spring 2030 become a 4th undergrad year (and the M.A. moves a year later):
+
+| Term | Cost | P&nbsp;Schol | Schol | 529 | PLUS | Her&nbsp;loan | Out&nbsp;of&nbsp;pocket |
+| :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| **Fall&nbsp;2029** | ~$29,164 | $10,750 | — | $640 | $2,394 | $3,750 | **$11,630** |
+| **Spring&nbsp;2030** | ~$29,164 | $10,750 | — | $320 | $2,394 | $3,750 | **$11,950** |
+| **Year&nbsp;4&nbsp;total** | **$58,328** | **$21,500** | — | **$960** | **$4,788** | **$7,500** | **$23,580** |
+
+- **Cost:** 2028-29 cost + 3.5% (the last increase). Confirm the 2029-30 rate when Gordon posts it.
+- **P Schol:** assumes the Presidential Scholarship covers all 8 semesters. Confirm this with Financial Aid.
+- **PLUS:** only $5,000 is left under the $65k cap ($2,500 per semester, ~$2,394 after the fee).
+- **Her loan:** $7,500 for a 4th year brings her to $28,000 of the $31,000 dependent-undergrad limit.
+- **Out of pocket** jumps to ~$23,600 for the year, during the son's 2nd year of college. That's the main reason to protect the 3-year plan.
 
 **How the columns were filled (funding order: 529 → Parent PLUS → her loan → out of pocket):**
 - **529:** today's $11,095.50, plus $80/mo, spent as it builds up. That is ~$11,175 in Dec 2026, plus the $80/mo deposits made before each later bill (growth not counted). It is used up by Spring 2028; after that each bill gets only the new deposits.
@@ -137,7 +159,7 @@ Gordon Plus graduate credits count toward both degrees, so the 12 grad credits f
 - **Out of pocket** = Cost − P Schol − Schol − 529 − PLUS − her loan. Work-study pay (~$1,500–2,000 per semester) can cover part of it.
 - **Summer 2027 split is a placeholder.** It depends on the THT 291 cost breakdown: the 529 covers tuition and books, cash covers travel, fuel and the passport.
 - **AOTC:** loans pay well over $4k of tuition each year, so the $4k carve-out is covered without holding back extra 529 money.
-- **+1 year:** out of pocket assumes she borrows the full $20,500. Lifetime Learning Credit (up to $2,000/yr) can offset part of it.
+- **M.A. +1 year:** out of pocket assumes she borrows the full $20,500. Lifetime Learning Credit (up to $2,000/yr) can offset part of it.
  
 *Grad estimate uses the posted $800/credit with the 10% Gordon alumni discount. Confirm the current rate, whether a larger Gordon-student discount applies, and whether overlap credits beyond the free 12 cost extra while she's a full-time undergrad. **Every grad credit taken inside undergrad tuition is a grad credit she doesn't borrow for at 8%.***
  
