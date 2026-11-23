@@ -1,7 +1,11 @@
 # Family College Planning – Harvey Kids
  
 **Last updated:** November 22, 2026
-**Strategy focus:** Use Gordon's **4+1** as an effective **3+1**. Bachelor's by **May 2029** (dual-enrollment + summer credits), with as many overlapping CMHC grad credits as possible banked inside it (fast track opened by PSY-257 in freshman spring). Then a one-year "+1" for the **M.A. in Clinical Mental Health Counseling by ~May 2030**. Protect the Presidential Scholarship every fall/spring.
+**Strategy focus:** Stay an undergrad for **4 years (B.A. May 2030)** so the **Presidential Scholarship covers all 8 semesters**, and pack as many CMHC grad credits as possible into those semesters (fast track opened by PSY-257 in freshman spring; she's ~1 year ahead on credits). Two paths for the **M.A. in Clinical Mental Health Counseling**:
+- **Plan A, max scholarship:** ~48 grad credits inside undergrad, then a short 5th year → **M.A. ~Dec 2030**.
+- **Plan B, standard 4+1:** ~24 grad credits inside undergrad, then a full "+1" year → **M.A. ~May 2031**.
+
+Protect the Presidential Scholarship and a 3.2+ GPA every fall/spring.
 **Source of truth:** Unofficial Advising Worksheet (Catalog Year 2026, Advisor Ryan T. Daley), dated 2026-11-21.
  
 > ⚠️ **Privacy:** This repo is public. Student ID and home ZIP have been removed from this version. Consider making the repo private, since it still shows names, schools and account balances.
@@ -12,22 +16,25 @@
  
 | Goal | Status | Notes |
 | :--- | :--- | :--- |
-| Bachelor's by May 2029 | ✅ **On track** | That is 6 semesters + 1 summer after starting Fall 2026, i.e. a **3-year** degree. Credit math works (see below). |
-| Grad credits overlapping with undergrad (4+1) | ✅ Unlocked early | Taking **PSY-257 Research Methods II in Spring 2027 (freshman year)** opens the fast track into master's-level courses early. Since she's ~1 year ahead on credits, the 4+1 becomes **effectively a 3+1**. |
-| Master's done within 4 years of starting (**May 2030**) | ⚠️ **Possible, if the overlap is large** | 60-credit licensure M.A. + 100-hr practicum + 600-hr internship. For a one-year "+1" (Summer 2029 → May/Aug 2030), roughly **24+ grad credits need to count during undergrad**, leaving ≤ ~36 for the grad year. With only the standard 12, the finish is Dec 2030 – May 2031. |
-| **Target master's finish** | 🎯 **May–Aug 2030** (backup: Dec 2030) | Hinges on (1) how many 4+1 grad credits double-count, and (2) whether practicum hours can start before the B.A. is conferred. **Get both answers in writing from the CMHC program director.** |
+| B.A. requirements done by May 2029 | ✅ **On track** | ~122–126 credits after 6 semesters + 1 summer (see below). She's ~1 year ahead. |
+| B.A. conferred May 2030 (4 years) | 🎯 **Plan** | She stays an undergrad for year 4 so the Presidential Scholarship covers **all 8 semesters**, and uses year 4 mostly for grad (Gordon Plus) courses. **Confirm she can delay conferral.** |
+| Grad credits overlapping with undergrad (4+1) | ✅ Unlocked early | Taking **PSY-257 Research Methods II in Spring 2027 (freshman year)** opens the fast track into master's-level courses early. Target ~24 by May 2029, then up to ~24 more in year 4. |
+| **Plan A: max scholarship** | 🎯 **M.A. ~Dec 2030** | ~48 of the 60 M.A. credits taken inside undergrad, then a short 5th year (Summer + Fall 2030) for the last ~12. Needs Gordon to allow ~12 grad credits per semester at the undergrad rate with the scholarship. |
+| **Plan B: standard 4+1** | ↩️ **M.A. ~May 2031** | ~24 grad credits inside undergrad, then a full "+1" year (Summer 2030 – Spring 2031) for the remaining ~36. |
+| Practicum + internship | ⚠️ Confirm | 100-hr practicum + 600-hr internship. Plan A only works if hours can start while she's still an undergrad. **Get this in writing from the CMHC program director.** |
  
 #### Gordon Plus eligibility (gordon.edu/plus)
 - Junior or senior standing · **3.2 GPA or higher** · full-time (12+ credits, undergrad + grad combined) · academic advisor approval
 - Existing Gordon scholarships and grants are kept during fall/spring Gordon Plus semesters
 - The counseling master's admissions page confirms current undergrads start grad coursework **through Gordon Plus**. The program is new for 2026-27, which is why it's missing from older Gordon Plus lists.
 - **Protect a 3.2+ GPA.** It's the gate for the whole fast track.
-#### What decides May 2030 vs. later
-| Grad credits banked by May 2029 | Left for the +1 year | Likely M.A. finish |
+#### What decides Dec 2030 vs. later
+| Grad credits inside undergrad by May 2030 | Left after the B.A. | Likely M.A. finish |
 | :--- | :--- | :--- |
-| 12 | 48 | Dec 2030 – May 2031 |
-| 18–21 | 39–42 | Aug – Dec 2030 |
-| **24+** | **≤ 36** | **May – Aug 2030** ✅ |
+| 12 | 48 | Aug 2031 |
+| **24 (Plan B)** | **36** | **May 2031** |
+| 36 | 24 | Dec 2030 – May 2031 |
+| **48 (Plan A)** | **12** | **Dec 2030** ✅ |
  
 ### Credit math (120 needed for the B.A.)
  
@@ -38,13 +45,15 @@
 | End of Spring 2027 | 48 |
 | End of Summer 2027 (10–14 cr) | ~58–62 → **junior standing** |
 | End of Spring 2028 | ~90–94 |
-| End of Spring 2029 | ~122–126 ✅ |
+| End of Spring 2029 | ~122–126 ✅ B.A. requirements met |
+| End of Spring 2030 | ~146–156 (year 4 is mostly grad credits) → **B.A. conferred** |
  
-Gordon Plus graduate credits count toward both degrees, so the 12 grad credits fit **inside** the 15–18-credit semesters. They are not added on top.
+Gordon Plus graduate credits count toward both degrees, so the grad credits fit **inside** the 12–18-credit semesters. They are not added on top.
  
 ### Things that could break the plan
-- **Scholarship trade-off:** Finishing in 3 years means the Presidential Scholarship is used for 6 semesters, not 8. Year 4 is never paid for, so this is still a big saving (~$35k net), but confirm the scholarship terms with Financial Aid.
-- **Parent PLUS lifetime cap ($65k per student):** This is fine for a 3-year plan. If the plan slips to 4 years, only ~$5k of PLUS is left for year 4.
+- **Delaying the B.A.:** She'll have the 120 credits by May 2029. Confirm Gordon lets her stay an undergrad for year 4 and that the Presidential Scholarship covers all 8 semesters, including mostly-grad Gordon Plus semesters.
+- **Year 4 is expensive:** at ~$1,200–1,500 per credit after the scholarship, undergrad year 4 costs more per credit than grad tuition (~$720). It only pays off if those semesters are full of grad credits. A 3-year B.A. + 1 M.A. year was ~$195k total vs. ~$237k (Plan A) or ~$254k (Plan B).
+- **Parent PLUS lifetime cap ($65k per student):** $20k/yr for 3 years uses $60k, so only ~$5k is left for year 4. That's why year 4 needs ~$23.6k out of pocket.
 - **Master's financing is different:** Parent PLUS does not cover graduate school, and Grad PLUS is gone for new borrowers after July 1, 2026. She can borrow up to **$20,500/yr** in her own unsubsidized loans (8.07% for 2026-27).
 - **M.A. program is new (launched 2026):** Confirm licensure eligibility in the state she plans to work in (Maine vs. Massachusetts) and ask about accreditation plans.
 - **Core transfer limit (~8 credits after matriculation):** Most summer community-college courses should count as electives or language. Don't plan on using them for Core without written approval.
@@ -79,22 +88,25 @@ Gordon Plus graduate credits count toward both degrees, so the 12 grad credits f
 - 15–18 credits each semester
 #### Summer 2028 (optional)
 - Language 102, remaining electives/minor, or a paid psych-related job/internship
-#### Fall 2028 – Spring 2029 (final year)
-- Remaining major requirements + internship (PSY 425/426)
-- Keep stacking overlap grad credits. **Target 24+ total by May 2029.**
-- Start the 100-hr practicum during senior year if the program allows it
-- **Apply/confirm M.A. CMHC admission in Oct–Dec 2028** (rolling admission). Don't wait until after graduation.
-- **B.A. conferred May 2029**
-#### Summer 2029 – Summer 2030 (the "+1")
-- Summer 2029: two-week summer intensive + summer grad courses
-- Fall 2029 – Spring 2030: remaining grad courses + 600-hr internship (~20 hrs/wk)
-- **M.A. target: May–Aug 2030.** Backup: Dec 2030 if fewer credits overlap.
+#### Fall 2028 – Spring 2029 (year 3)
+- Remaining major requirements + internship (PSY 425/426). **All B.A. requirements done by May 2029.**
+- Keep stacking overlap grad credits. **Target 24 total by May 2029.**
+- **Apply/confirm M.A. CMHC admission in Oct–Dec 2028** (rolling admission).
+- Don't apply to graduate: the B.A. is conferred in May 2030 so year 4 stays under the scholarship.
+#### Fall 2029 – Spring 2030 (year 4: mostly grad, still undergrad)
+- **Plan A:** ~12 grad credits per semester (+ any undergrad electives to stay full-time) → ~48 total grad credits by May 2030
+- **Plan B:** a normal senior year with fewer grad credits → ~24 total by May 2030
+- Start the 100-hr practicum if the program allows it while she's an undergrad
+- **B.A. conferred May 2030**
+#### After the B.A.
+- **Plan A, short 5th year:** Summer 2030 (two-week intensive + ~6 cr) and Fall 2030 (~6 cr + finish the 600-hr internship) → **M.A. ~Dec 2030**
+- **Plan B, full +1 year:** Summer 2030 (intensive + ~6 cr), Fall 2030 and Spring 2031 (~15 cr each + 600-hr internship, ~20 hrs/wk) → **M.A. ~May 2031**
 ---
  
 ## Money Plan
  
 ### Funding order (cheapest first)
-1. **Scholarships/grants** (already in "net after aid")
+1. **Scholarships/grants** (the P Schol and Schol columns below)
 2. **529**: no interest, so use it before borrowing, *but* leave **$4,000/yr** of tuition paid by loans or cash to claim the **American Opportunity Tax Credit (up to $2,500/yr)**, if our income qualifies
 3. **Cash flow + work-study earnings**
 4. **Her Direct Loans** (6.52% for 2026-27): ~$5.5k / $6.5k / $7.5k per year by grade level. *Confirm whether these are already counted in "net after aid."*
@@ -111,7 +123,7 @@ Gordon Plus graduate credits count toward both degrees, so the 12 grad credits f
  
 Both paths below keep the Presidential Scholarship for all 8 undergrad semesters and are identical through Spring 2030. They differ in how many grad credits she takes **inside** undergrad (under the scholarship) and therefore how long the M.A. takes afterwards.
 
-#### Table 1 — Max scholarship: 4 undergrad years + short 5th year (M.A. ~Dec 2030)
+#### Table 1 (Plan A) — Max scholarship: 4 undergrad years + short 5th year (M.A. ~Dec 2030)
 
 Pack as many CMHC grad credits as possible into undergrad semesters, where tuition is covered by the scholarship/undergrad bill: ~24 by May 2029 and ~24 more in year 4 (≈ 48 total). The B.A. is conferred May 2030, and only ~12 grad credits are left for a short 5th year.
 
@@ -133,7 +145,7 @@ Pack as many CMHC grad credits as possible into undergrad semesters, where tuiti
 | **M.A.&nbsp;total** | **$8,640** | — | — | **$640** | — | **$8,000** | **$0** |
 | **Grand&nbsp;total** | **$236,509** | **$86,000** | **$2,603** | **$14,696** | **$62,250** | **$36,000** | **$34,960** |
 
-#### Table 2 — Standard 4+1: 4-year B.A. + full M.A. year (M.A. ~May 2031)
+#### Table 2 (Plan B) — Standard 4+1: 4-year B.A. + full M.A. year (M.A. ~May 2031)
 
 A regular undergrad pace with the usual ~24 overlapping grad credits by May 2030. The B.A. is conferred May 2030, then a full "+1" year for the remaining ~36 grad credits.
 
@@ -231,26 +243,30 @@ For comparison, the earlier 3+1 plan (B.A. May 2029, M.A. ~May 2030) came to ~$1
 | **Jan–Apr 2028** | Continue Gordon Plus | Merit offers arrive; compare **net cost** | Pay the Spring bill. File 2027 taxes (AOTC). |
 | **May 1, 2028** | | **Commit to a school** | |
 | **Summer 2028** | Optional courses or a paid psych job | Summer job | Apply for 2028-29 PLUS for **both** kids (separate $65k caps). Start or raise the cash-flow savings. |
-| **Aug 2028** | Final year begins | **Starts college** | ⚠️ Peak cash year: two tuition bills |
-| **Oct–Dec 2028** | **Confirm M.A. CMHC admission**; count banked grad credits (goal 24+) | | File 2029-30 FAFSA (both). |
-| **May 2029** | **B.A. conferred** | | Daughter's AOTC years end after tax year 2029. |
-| **Summer 2029** | M.A. summer intensive + summer courses | | Her grad loans (≤ $20,500/yr). Parent PLUS no longer applies to her. |
-| **Fall 2029 – Aug 2030** | Remaining courses + internship → **M.A. May–Aug 2030** (4 years from start) | Years 2–3 | Lifetime Learning Credit for the daughter. Son's AOTC continues. |
+| **Aug 2028** | Year 3 begins | **Starts college** | ⚠️ Two tuition bills from here on |
+| **Oct–Dec 2028** | **Confirm M.A. CMHC admission**; count banked grad credits (goal 24) | | File 2029-30 FAFSA (both). |
+| **May 2029** | B.A. requirements met; **don't graduate yet** | | Apply for 2029-30 PLUS: only **~$5k left** under the $65k cap. Daughter's AOTC years end after tax year 2029. |
+| **Fall 2029 – Spring 2030** | Year 4: mostly grad courses under the scholarship (Plan A ~24 grad cr, Plan B fewer) | Year 2 | ⚠️ ~$23.6k out of pocket this year. File 2030-31 FAFSA (both). |
+| **May 2030** | **B.A. conferred** | | |
+| **Summer 2030** | M.A. summer intensive + ~6 cr | | Her grad loans (≤ $20,500/yr). Parent PLUS no longer applies to her. |
+| **Fall 2030** | **Plan A: M.A. ~Dec 2030** | Year 3 | Lifetime Learning Credit for the daughter. Son's AOTC continues. |
+| **Spring 2031** | **Plan B: M.A. ~May 2031** | | |
  
 ---
  
 ## Key Action Items (next 30 days)
  
 1. **Advisor (Ryan Daley):**
-   - Confirm the B.A. can be conferred May 2029 with this sequence.
+   - Confirm she can finish B.A. requirements by May 2029 but **delay conferral to May 2030** and stay an undergrad for year 4.
    - Confirm what THT 291 covers for the Fine Arts requirement.
    - Confirm PSY-257 + Lab must be in Spring.
    - Get the written pre-approval list for summer courses (Language first).
 2. **CMHC program director (4+1):**
-   - **How many grad credits can double-count in the 4+1?** (Need ~24+ for a May 2030 M.A.) Are credits beyond the free 12 charged extra?
+   - **How many grad credits can double-count in the 4+1?** (Plan A needs ~48 by May 2030; Plan B ~24.) Are credits beyond the free 12 charged extra?
+   - Can she take ~12 grad credits per semester in year 4 while still an undergrad?
    - When can she formally enter the 4+1 track now that PSY-257 is in freshman spring?
    - **Can practicum hours start before the B.A. is conferred?**
-   - Can the 600-hr internship finish by May or Aug 2030?
+   - Can the 600-hr internship finish by Dec 2030 (Plan A)?
    - Licensure in Maine vs. Massachusetts, and accreditation plans.
 3. **Catalog + Registrar:**
    - Check the 2026-27 catalog (catalog.gordon.edu) for the official CMHC + Gordon Plus rules.
@@ -258,7 +274,7 @@ For comparison, the earlier 3+1 plan (B.A. May 2029, M.A. ~May 2030) came to ~$1
    - Save all written replies in this repo's notes.
 4. **Financial Aid:**
    - Minimum credits for the Presidential Scholarship.
-   - Whether the scholarship covers summer or Gordon Plus.
+   - Whether the scholarship covers summer or Gordon Plus, and **all 8 semesters** including a mostly-grad year 4.
    - Whether "net after aid" includes her Direct Loans.
    - Whether she's eligible for work-study.
 5. **FAFSA 2027-28:** file now for the daughter, and next fall for the son.
@@ -296,8 +312,8 @@ For comparison, the earlier 3+1 plan (B.A. May 2029, M.A. ~May 2030) came to ~$1
 **Strategy notes**
 - Spend 529 money before Parent PLUS. Every 529 dollar replaces 9%+ debt.
 - Each year, keep $4k of each kid's tuition paid by loan or cash for the AOTC.
-- Use summer community-college credits + Gordon Plus to finish the bachelor's in 3 years. Skipping a 4th undergrad year is the biggest single saving in this plan.
-- 2028-29 is the peak year (two kids enrolled). Build cash before then.
+- Use summer community-college credits to finish B.A. requirements in 3 years, then fill year 4 with grad credits under the Presidential Scholarship. Every grad credit taken there is one she doesn't pay for (or borrow for) after the B.A.
+- 2029-30 is the peak year: two kids enrolled and only ~$5k of the daughter's PLUS left. Build cash before then.
 ---
  
 ## School Context
