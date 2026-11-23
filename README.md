@@ -109,6 +109,12 @@ Gordon Plus graduate credits count toward both degrees, so the 12 grad credits f
 - Keep the son's 529 for the son. Any leftover later can switch beneficiary (e.g., to the daughter's master's) or partly roll into a Roth IRA (subject to the rules)
 ### Cost & Funding Timeline — Daughter
  
+Both paths below keep the Presidential Scholarship for all 8 undergrad semesters and are identical through Spring 2030. They differ in how many grad credits she takes **inside** undergrad (under the scholarship) and therefore how long the M.A. takes afterwards.
+
+#### Table 1 — Max scholarship: 4 undergrad years + short 5th year (M.A. ~Dec 2030)
+
+Pack as many CMHC grad credits as possible into undergrad semesters, where tuition is covered by the scholarship/undergrad bill: ~24 by May 2029 and ~24 more in year 4 (≈ 48 total). The B.A. is conferred May 2030, and only ~12 grad credits are left for a short 5th year.
+
 | Term | Cost | P&nbsp;Schol | Schol | 529 | PLUS | Her&nbsp;loan | Out&nbsp;of&nbsp;pocket |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | **Fall&nbsp;2026**&nbsp;✅ | $25,680 | $10,750 | $2,603¹ | — | $9,577 | $2,750 | **$0** |
@@ -118,59 +124,89 @@ Gordon Plus graduate credits count toward both degrees, so the 12 grad credits f
 | **Spring&nbsp;2028** | $27,225 | $10,750 | — | $1,885 | $9,577 | $3,750 | **$1,263** |
 | **Fall&nbsp;2028**&nbsp;⚠️ | $28,178 | $10,750 | — | $640 | $9,577 | $3,750 | **$3,461** |
 | **Spring&nbsp;2029** | $28,178 | $10,750 | — | $320 | $9,577 | $3,750 | **$3,781** |
-| **B.A.&nbsp;total** | **$169,541** | **$64,500** | **$2,603** | **$13,096** | **$57,462** | **$20,500** | **$11,380** |
-| ***M.A.&nbsp;+1&nbsp;year*** | | | | | | | |
-| **Summer&nbsp;2029** | $4,320 | — | — | $480 | — | — | **$3,840** |
-| **Fall&nbsp;2029** | $10,800 | — | — | — | — | $10,250 | **$550** |
-| **Spring&nbsp;2030** | $10,800 | — | — | — | — | $10,250 | **$550** |
-| **M.A.&nbsp;total** | **$25,920** | — | — | **$480** | — | **$20,500** | **$4,940** |
-| **4&#8209;year&nbsp;total** | **$195,461** | **$64,500** | **$2,603** | **$13,576** | **$57,462** | **$41,000** | **$16,320** |
+| **Fall&nbsp;2029** | ~$29,164 | $10,750 | — | $640 | $2,394 | $3,750 | **$11,630** |
+| **Spring&nbsp;2030** | ~$29,164 | $10,750 | — | $320 | $2,394 | $3,750 | **$11,950** |
+| **B.A.&nbsp;total** | **$227,869** | **$86,000** | **$2,603** | **$14,056** | **$62,250** | **$28,000** | **$34,960** |
+| ***M.A.&nbsp;short&nbsp;5th&nbsp;year*** | | | | | | | |
+| **Summer&nbsp;2030** | $4,320 | — | — | $480 | — | $3,840 | **$0** |
+| **Fall&nbsp;2030** | $4,320 | — | — | $160 | — | $4,160 | **$0** |
+| **M.A.&nbsp;total** | **$8,640** | — | — | **$640** | — | **$8,000** | **$0** |
+| **Grand&nbsp;total** | **$236,509** | **$86,000** | **$2,603** | **$14,696** | **$62,250** | **$36,000** | **$34,960** |
 
-¹ Fall 2026 other scholarships: ~$2,603, worked out as whatever was left after the Presidential Scholarship, $10k PLUS and her fall loan, with no 529 and no cash. Replace it with the real figure from her aid statement. Add any new outside or departmental scholarships in this column; every dollar here comes straight off the out-of-pocket (or 529/PLUS) amount for that term.
+#### Table 2 — Standard 4+1: 4-year B.A. + full M.A. year (M.A. ~May 2031)
 
-⚠️ Fall 2028: the son starts college, so there are two tuition bills. Spring 2029 is the last undergrad bill. Summer 2027 cost is a ~$6,750–8,000 range with no aid. ✅ Fall 2026 is paid.
-
-**Pay by:** fall bills in Aug; spring bills in Dec (or early Jan) before the term; summer May–Aug. **P Schol** = Presidential Scholarship, **Schol** = her other scholarships.
-
-**M.A. +1 year:** assumes 24 grad credits overlap during undergrad, leaving 36 credits at ~$720 each: 6 in Summer 2029, then 15 in fall and 15 in spring. Her loan here is her own unsubsidized grad loan (≤ $20,500/yr, split $10,250 per semester); Parent PLUS isn't allowed for grad school. The 529 has only the Jan–Jun 2029 deposits (~$480) left. If only 12 credits overlap, it's 48 credits (≈ $34,560) over 2 loan years, so out of pocket is ~$0–14,000.
-
-#### Backup: if the B.A. takes 4 years
-
-If the 3-year plan slips, Fall 2029 and Spring 2030 become a 4th undergrad year (and the M.A. moves a year later):
+A regular undergrad pace with the usual ~24 overlapping grad credits by May 2030. The B.A. is conferred May 2030, then a full "+1" year for the remaining ~36 grad credits.
 
 | Term | Cost | P&nbsp;Schol | Schol | 529 | PLUS | Her&nbsp;loan | Out&nbsp;of&nbsp;pocket |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| **Fall&nbsp;2026**&nbsp;✅ | $25,680 | $10,750 | $2,603¹ | — | $9,577 | $2,750 | **$0** |
+| **Spring&nbsp;2027** | $25,680 | $10,750 | — | $2,603 | $9,577 | $2,750 | **$0** |
+| **Summer&nbsp;2027** | ~$7,375 | — | — | $4,500 | — | — | **~$2,875** |
+| **Fall&nbsp;2027** | $27,225 | $10,750 | — | $3,148 | $9,577 | $3,750 | **$0** |
+| **Spring&nbsp;2028** | $27,225 | $10,750 | — | $1,885 | $9,577 | $3,750 | **$1,263** |
+| **Fall&nbsp;2028**&nbsp;⚠️ | $28,178 | $10,750 | — | $640 | $9,577 | $3,750 | **$3,461** |
+| **Spring&nbsp;2029** | $28,178 | $10,750 | — | $320 | $9,577 | $3,750 | **$3,781** |
 | **Fall&nbsp;2029** | ~$29,164 | $10,750 | — | $640 | $2,394 | $3,750 | **$11,630** |
 | **Spring&nbsp;2030** | ~$29,164 | $10,750 | — | $320 | $2,394 | $3,750 | **$11,950** |
-| **Year&nbsp;4&nbsp;total** | **$58,328** | **$21,500** | — | **$960** | **$4,788** | **$7,500** | **$23,580** |
+| **B.A.&nbsp;total** | **$227,869** | **$86,000** | **$2,603** | **$14,056** | **$62,250** | **$28,000** | **$34,960** |
+| ***M.A.&nbsp;+1&nbsp;year*** | | | | | | | |
+| **Summer&nbsp;2030** | $4,320 | — | — | $480 | — | $3,840 | **$0** |
+| **Fall&nbsp;2030** | $10,800 | — | — | $160 | — | $10,640 | **$0** |
+| **Spring&nbsp;2031** | $10,800 | — | — | $320 | — | $6,020 | **$4,460** |
+| **M.A.&nbsp;total** | **$25,920** | — | — | **$960** | — | **$20,500** | **$4,460** |
+| **Grand&nbsp;total** | **$253,789** | **$86,000** | **$2,603** | **$15,016** | **$62,250** | **$48,500** | **$39,420** |
 
-- **Cost:** 2028-29 cost + 3.5% (the last increase). Confirm the 2029-30 rate when Gordon posts it.
-- **P Schol:** assumes the Presidential Scholarship covers all 8 semesters. Confirm this with Financial Aid.
-- **PLUS:** only $5,000 is left under the $65k cap ($2,500 per semester, ~$2,394 after the fee).
-- **Her loan:** $7,500 for a 4th year brings her to $28,000 of the $31,000 dependent-undergrad limit.
-- **Out of pocket** jumps to ~$23,600 for the year, during the son's 2nd year of college. That's the main reason to protect the 3-year plan.
+#### Side by side
+
+| | Table 1: Max scholarship | Table 2: Standard 4+1 |
+| :--- | ---: | ---: |
+| B.A. conferred | May 2030 | May 2030 |
+| Grad credits inside undergrad | ~48 | ~24 |
+| M.A. finish | ~Dec 2030 | ~May 2031 |
+| Total cost | $236,509 | $253,789 |
+| Her loans (undergrad + grad) | $36,000 | $48,500 |
+| **Out of pocket** | **$34,960** | **$39,420** |
+
+Table 1 saves ~$17,300 in cost, ~$12,500 of her loans and ~$4,500 out of pocket, and finishes the M.A. ~5 months sooner, **if** Gordon lets her take ~24 grad credits in year 4 at the undergrad rate with the scholarship.
+
+For comparison, the earlier 3+1 plan (B.A. May 2029, M.A. ~May 2030) came to ~$195,500 total and ~$16,300 out of pocket. It's cheaper because it skips the 4th undergrad year entirely, but it uses only 6 semesters of the scholarship.
+
+¹ Fall 2026 other scholarships: ~$2,603, worked out as whatever was left after the Presidential Scholarship, $10k PLUS and her fall loan, with no 529 and no cash. Replace it with the real figure from her aid statement. Add any new outside or departmental scholarships in this column; every dollar here comes straight off the out-of-pocket (or 529/PLUS) amount for that term.
+
+⚠️ Fall 2028: the son starts college, so there are two tuition bills. Summer 2027 cost is a ~$6,750–8,000 range with no aid. ✅ Fall 2026 is paid.
+
+**Pay by:** fall bills in Aug; spring bills in Dec (or early Jan) before the term; summer May–Aug. **P Schol** = Presidential Scholarship, **Schol** = her other scholarships.
 
 **How the columns were filled (funding order: 529 → Parent PLUS → her loan → out of pocket):**
 - **529:** today's $11,095.50, plus $80/mo, spent as it builds up. That is ~$11,175 in Dec 2026, plus the $80/mo deposits made before each later bill (growth not counted). It is used up by Spring 2028; after that each bill gets only the new deposits.
-- **Parent PLUS:** $20,000/yr, i.e. $10,000 borrowed per semester. After the 4.228% fee, ~$9,577 reaches the bill. Total borrowed by Spring 2029: **$60,000 of the $65k lifetime cap**, leaving $5,000.
-- **Her loan:** $5,500 for 2026-27 ($2,750 per semester), then $7,500/yr ($3,750 per semester) once she has junior standing by credits. Her loan's ~1% fee isn't counted.
-- **P Schol** = Cost − the old "net after aid" figure, which is $10,750 every fall/spring ($21,500/yr). This assumes all of that gap is the Presidential Scholarship; confirm with Financial Aid whether any other grant is part of it. The scholarship doesn't apply to summer.
+- **Parent PLUS:** $20,000/yr ($10,000 borrowed per semester) for the first three years. After the 4.228% fee, ~$9,577 reaches the bill. That's $60,000 by Spring 2029, so only **$5,000 is left under the $65k lifetime cap** for year 4 ($2,500 per semester, ~$2,394 after the fee). Parent PLUS isn't allowed for grad school.
+- **Her loan (undergrad):** $5,500 for 2026-27 ($2,750 per semester), then $7,500/yr ($3,750 per semester) once she has junior standing by credits. Four years = $28,000 of the $31,000 dependent-undergrad limit. Her loan's ~1% fee isn't counted.
+- **Her loan (grad):** her own unsubsidized grad loan, up to $20,500 per year (Summer 2030 is counted in the 2030-31 loan year). Lifetime Learning Credit (up to $2,000/yr) can offset part of the grad cost.
+- **P Schol** = Cost − the old "net after aid" figure, which is $10,750 every fall/spring ($21,500/yr). This assumes all of that gap is the Presidential Scholarship and that it covers all 8 semesters; confirm both with Financial Aid. The scholarship doesn't apply to summer or to grad-only terms.
 - **Schol:** her other (misc) scholarships, outside or departmental. Only Fall 2026 is known so far; later terms are blank until new awards come in.
 - **Out of pocket** = Cost − P Schol − Schol − 529 − PLUS − her loan. Work-study pay (~$1,500–2,000 per semester) can cover part of it.
+- **Year 4 (2029-30) cost:** 2028-29 cost + 3.5% (the last increase). Confirm the rate when Gordon posts it. Out of pocket jumps to ~$23,600 that year because PLUS is nearly used up, during the son's 2nd year of college.
+- **Grad rows:** 6 credits in Summer 2030, then 6 (Table 1) or 15 + 15 (Table 2) credits at ~$720/credit. Grad rows are tuition only; undergrad "Cost" may include room & board.
 - **Summer 2027 split is a placeholder.** It depends on the THT 291 cost breakdown: the 529 covers tuition and books, cash covers travel, fuel and the passport.
 - **AOTC:** loans pay well over $4k of tuition each year, so the $4k carve-out is covered without holding back extra 529 money.
-- **M.A. +1 year:** out of pocket assumes she borrows the full $20,500. Lifetime Learning Credit (up to $2,000/yr) can offset part of it.
+
+**What Table 1 depends on (ask in writing):**
+- Can she stay an undergrad for year 4 (delay B.A. conferral) even if she has the 120 credits by May 2029?
+- Can she take ~12 grad credits per semester in year 4 at the undergrad rate, and does the Presidential Scholarship still apply? (Gordon Plus says existing scholarships are kept during fall/spring Gordon Plus semesters.)
+- Are grad credits beyond the free 12 charged extra while she's a full-time undergrad?
+- Can practicum/internship hours count while she's still an undergrad?
  
 *Grad estimate uses the posted $800/credit with the 10% Gordon alumni discount. Confirm the current rate, whether a larger Gordon-student discount applies, and whether overlap credits beyond the free 12 cost extra while she's a full-time undergrad. **Every grad credit taken inside undergrad tuition is a grad credit she doesn't borrow for at 8%.***
  
-**Total remaining undergrad net (Spring 2027 → Spring 2029): ≈ $89,700**
- 
-| Source | Approx. amount |
-| :--- | :--- |
-| Daughter's 529 ($11,096 + $80/mo through Dec 2028) | ~$13,100 |
-| Her Direct Loans (remaining) | ~$17,750 |
-| Parent PLUS (remaining: $50,000 borrowed; ~$47,900 after fees) | ~$47,900 |
-| **Cash flow / work-study needed** | **~$11,400** (≈ $8,500 for semesters + ~$2,900 for Summer 2027; ≈ $450/mo from Dec 2026 to Jan 2029) |
+**Where the money comes from (both tables):**
+
+| Source | Table 1 | Table 2 |
+| :--- | ---: | ---: |
+| Presidential + other scholarships | $88,603 | $88,603 |
+| Daughter's 529 ($11,096 + $80/mo) | $14,696 | $15,016 |
+| Parent PLUS ($65,000 borrowed; after fees) | $62,250 | $62,250 |
+| Her loans (undergrad + grad) | $36,000 | $48,500 |
+| **Cash flow / work-study needed** | **$34,960** | **$39,420** |
  
 ### Work-Study / Campus Job
 - **Reasonable target:** **8–10 hrs/week** during semesters (Gordon allows up to 20). That's ≈ **$3,000–4,000/yr** at ~$15/hr.
@@ -255,7 +291,7 @@ If the 3-year plan slips, Fall 2029 and Spring 2030 become a 4th undergrad year 
 | Son's 529 | $14,549.34 (≈ $16,200+ by Aug 2028 at $80/mo, before growth) |
 | Monthly contribution | $80 each ($160 total) |
 | Parent PLUS | $20k/yr per student ($10k per semester); **$65k lifetime per student**; 9.07% + 4.228% fee (2026-27) |
-| Cash-flow target | Start setting aside **~$450/mo** now for the daughter's gap and the 2028-29 two-bill year |
+| Cash-flow target | Start setting aside **~$950/mo** now (≈ $35k–39k out of pocket by 2030-31) for the daughter's gap, the 2028-29 two-bill year and her 4th undergrad year |
  
 **Strategy notes**
 - Spend 529 money before Parent PLUS. Every 529 dollar replaces 9%+ debt.
