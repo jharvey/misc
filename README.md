@@ -109,16 +109,19 @@ Gordon Plus graduate credits count toward both degrees, so the 12 grad credits f
 - Keep the son's 529 for the son. Any leftover later can switch beneficiary (e.g., to the daughter's master's) or partly roll into a Roth IRA (subject to the rules)
 ### Cost & Funding Timeline — Daughter
  
-| Term | Est. Cost | Est. Net | 529 | Parent PLUS | Her loan | Out of pocket | Bill/Pay By |
-| :--- | :--- | :--- | ---: | ---: | ---: | ---: | :--- |
-| **Spring 2027** | $25,680 | ~$14,930 | $4,400 | $7,780 | $2,750 | **$0** | Dec 2026 / Jan 2027 |
-| **Summer 2027** | ~$6,750–8,000 | ~$7,375 (no aid) | $4,500 | — | — | **~$2,875** | May–Aug 2027 |
-| **Fall 2027** | $27,225 | ~$16,475 | $2,915 | $7,780 | $3,750 | **$2,030** | Aug 2027 |
-| **Spring 2028** | $27,225 | ~$16,475 | $320 | $7,780 | $3,750 | **$4,625** | Dec 2027 / Jan 2028 |
-| **Fall 2028** ⚠️ Son starts | ~$28,178 | ~$17,428 | $640 | $7,780 | $3,750 | **$5,258** | Aug 2028 |
-| **Spring 2029** (last undergrad bill) | ~$28,178 | ~$17,428 | $320 | $7,780 | $3,750 | **$5,578** | Dec 2028 / Jan 2029 |
-| **Undergrad total** | | **~$90,100** | **$13,095** | **$38,900** | **$17,750** | **~$20,366** | |
-| **Summer 2029 – Summer 2030 (+1 year)** | 36 cr × ~$720 ≈ **$25,920** (if 24 overlap) · 48 cr ≈ $34,560 (if only 12) | Varies | ~$400 leftover | — (not allowed for grad) | ≤ $20,500/yr (unsubsidized grad) | **~$5,000** (24 overlap) · ~$0–14,000 (only 12: spans 2 loan years) | Per term |
+| Term (pay by) | Cost | Net | 529 | PLUS | Her loan | Out of pocket |
+| :--- | ---: | ---: | ---: | ---: | ---: | ---: |
+| **Spring 2027** (Dec '26) | $25,680 | $14,930 | $4,400 | $7,780 | $2,750 | **$0** |
+| **Summer 2027** (May–Aug) | ~$7,375 | ~$7,375 | $4,500 | — | — | **~$2,875** |
+| **Fall 2027** (Aug '27) | $27,225 | $16,475 | $2,915 | $7,780 | $3,750 | **$2,030** |
+| **Spring 2028** (Dec '27) | $27,225 | $16,475 | $320 | $7,780 | $3,750 | **$4,625** |
+| **Fall 2028** ⚠️ (Aug '28) | $28,178 | $17,428 | $640 | $7,780 | $3,750 | **$5,258** |
+| **Spring 2029** (Dec '28) | $28,178 | $17,428 | $320 | $7,780 | $3,750 | **$5,578** |
+| **Total** | | **$90,100** | **$13,095** | **$38,900** | **$17,750** | **$20,366** |
+
+⚠️ Fall 2028: the son starts college, so there are two tuition bills. Spring 2029 is the last undergrad bill. Summer 2027 cost is a ~$6,750–8,000 range with no aid. "Pay by" also allows Jan for the spring bills.
+
+**+1 grad year (Summer 2029 – Summer 2030):** 36 cr × ~$720 ≈ **$25,920** if 24 credits overlap (48 cr ≈ $34,560 if only 12). Funded by ~$400 leftover 529 + her unsubsidized grad loans (≤ $20,500/yr; Parent PLUS isn't allowed for grad school) → **~$5,000 out of pocket**. With only 12 overlapping it spans 2 loan years, so out of pocket is ~$0–14,000. Paid per term.
 
 **How the columns were filled (funding order: 529 → Parent PLUS → her loan → out of pocket):**
 - **529:** today's $11,095.50, plus $80/mo, spent as it builds up. That is ~$11,175 in Dec 2026, plus the $80/mo deposits made before each later bill (growth not counted). It is mostly used up by Fall 2027; after that each bill gets only the new deposits.
