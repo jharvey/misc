@@ -109,15 +109,15 @@ Gordon Plus graduate credits count toward both degrees, so the 12 grad credits f
 - Keep the son's 529 for the son. Any leftover later can switch beneficiary (e.g., to the daughter's master's) or partly roll into a Roth IRA (subject to the rules)
 ### Cost & Funding Timeline — Daughter
  
-| Term (pay by) | Cost | Net | 529 | PLUS | Her loan | Out of pocket |
+| Term (pay by) | Cost | Pres. Schol. | 529 | PLUS | Her loan | Out of pocket |
 | :--- | ---: | ---: | ---: | ---: | ---: | ---: |
-| **Spring 2027** (Dec '26) | $25,680 | $14,930 | $4,400 | $7,780 | $2,750 | **$0** |
-| **Summer 2027** (May–Aug) | ~$7,375 | ~$7,375 | $4,500 | — | — | **~$2,875** |
-| **Fall 2027** (Aug '27) | $27,225 | $16,475 | $2,915 | $7,780 | $3,750 | **$2,030** |
-| **Spring 2028** (Dec '27) | $27,225 | $16,475 | $320 | $7,780 | $3,750 | **$4,625** |
-| **Fall 2028** ⚠️ (Aug '28) | $28,178 | $17,428 | $640 | $7,780 | $3,750 | **$5,258** |
-| **Spring 2029** (Dec '28) | $28,178 | $17,428 | $320 | $7,780 | $3,750 | **$5,578** |
-| **Total** | | **$90,100** | **$13,095** | **$38,900** | **$17,750** | **$20,366** |
+| **Spring 2027** (Dec '26) | $25,680 | $10,750 | $4,400 | $7,780 | $2,750 | **$0** |
+| **Summer 2027** (May–Aug) | ~$7,375 | — | $4,500 | — | — | **~$2,875** |
+| **Fall 2027** (Aug '27) | $27,225 | $10,750 | $2,915 | $7,780 | $3,750 | **$2,030** |
+| **Spring 2028** (Dec '27) | $27,225 | $10,750 | $320 | $7,780 | $3,750 | **$4,625** |
+| **Fall 2028** ⚠️ (Aug '28) | $28,178 | $10,750 | $640 | $7,780 | $3,750 | **$5,258** |
+| **Spring 2029** (Dec '28) | $28,178 | $10,750 | $320 | $7,780 | $3,750 | **$5,578** |
+| **Total** | **$143,861** | **$53,750** | **$13,095** | **$38,900** | **$17,750** | **$20,366** |
 
 ⚠️ Fall 2028: the son starts college, so there are two tuition bills. Spring 2029 is the last undergrad bill. Summer 2027 cost is a ~$6,750–8,000 range with no aid. "Pay by" also allows Jan for the spring bills.
 
@@ -127,7 +127,8 @@ Gordon Plus graduate credits count toward both degrees, so the 12 grad credits f
 - **529:** today's $11,095.50, plus $80/mo, spent as it builds up. That is ~$11,175 in Dec 2026, plus the $80/mo deposits made before each later bill (growth not counted). It is mostly used up by Fall 2027; after that each bill gets only the new deposits.
 - **Parent PLUS:** $8,125 borrowed per semester ($16,250/yr). After the 4.228% fee, ~$7,780 reaches the bill. Total borrowed: $40,625 of the $65k lifetime cap.
 - **Her loan:** $5,500 for 2026-27 (spring half = $2,750), then $7,500/yr ($3,750 per semester) once she has junior standing by credits. Her loan's ~1% fee isn't counted.
-- **Out of pocket** = Est. Net − 529 − PLUS − her loan. Work-study pay (~$1,500–2,000 per semester) can cover part of it.
+- **Pres. Schol.** = Cost − the old "net after aid" figure, which is $10,750 every fall/spring ($21,500/yr). This assumes all of that gap is the Presidential Scholarship; confirm with Financial Aid whether any other grant is part of it. The scholarship doesn't apply to summer.
+- **Out of pocket** = Cost − Pres. Schol. − 529 − PLUS − her loan. Work-study pay (~$1,500–2,000 per semester) can cover part of it.
 - **Summer 2027 split is a placeholder.** It depends on the THT 291 cost breakdown: the 529 covers tuition and books, cash covers travel, fuel and the passport.
 - **AOTC:** loans pay well over $4k of tuition each year, so the $4k carve-out is covered without holding back extra 529 money.
 - **+1 year:** out of pocket assumes she borrows the full $20,500. Lifetime Learning Credit (up to $2,000/yr) can offset part of it.
