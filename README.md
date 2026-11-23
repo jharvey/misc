@@ -109,15 +109,25 @@ Gordon Plus graduate credits count toward both degrees, so the 12 grad credits f
 - Keep the son's 529 for the son. Any leftover later can switch beneficiary (e.g., to the daughter's master's) or partly roll into a Roth IRA (subject to the rules)
 ### Cost & Funding Timeline — Daughter
  
-| Term | Est. Cost | Est. Net | Suggested Funding Stack (estimate) | Bill/Pay By |
-| :--- | :--- | :--- | :--- | :--- |
-| **Spring 2027** | $25,680 | ~$14,930 | 2026-27 PLUS spring disbursement + her loan (spring half) + 529 for the rest. Keep $4k paid by loan/cash for 2027 AOTC. | Dec 2026 / Jan 2027 |
-| **Summer 2027** | ~$6,750–8,000 | Full | **529:** THT tuition portion, CC tuition, books. **Cash:** travel portion, fuel, passport. | May–Aug 2027 |
-| **Fall 2027** | $27,225 | ~$16,475 | PLUS (~$8.1k) + her loan (~$3.75k) + remaining 529 + cash/work-study | Aug 2027 |
-| **Spring 2028** | $27,225 | ~$16,475 | PLUS (~$8.1k) + her loan (~$3.75k) + cash (~$4.6k) | Dec 2027 / Jan 2028 |
-| **Fall 2028** | ~$28,178 | ~$17,428 | PLUS + her loan + cash. ⚠️ **Son starts college this term** | Aug 2028 |
-| **Spring 2029** | ~$28,178 | ~$17,428 | PLUS + her loan + cash. Last undergrad bill. | Dec 2028 / Jan 2029 |
-| **Summer 2029 – Summer 2030 (+1 year)** | 36 cr × ~$720 ≈ **$25,920** (if 24 overlap) · 48 cr ≈ $34,560 (if only 12) | Varies | Her unsubsidized grad loans (≤$20,500/yr), cash, any leftover 529, Lifetime Learning Credit | Per term |
+| Term | Est. Cost | Est. Net | 529 | Parent PLUS | Her loan | Out of pocket | Bill/Pay By |
+| :--- | :--- | :--- | ---: | ---: | ---: | ---: | :--- |
+| **Spring 2027** | $25,680 | ~$14,930 | $4,400 | $7,780 | $2,750 | **$0** | Dec 2026 / Jan 2027 |
+| **Summer 2027** | ~$6,750–8,000 | ~$7,375 (no aid) | $4,500 | — | — | **~$2,875** | May–Aug 2027 |
+| **Fall 2027** | $27,225 | ~$16,475 | $2,915 | $7,780 | $3,750 | **$2,030** | Aug 2027 |
+| **Spring 2028** | $27,225 | ~$16,475 | $320 | $7,780 | $3,750 | **$4,625** | Dec 2027 / Jan 2028 |
+| **Fall 2028** ⚠️ Son starts | ~$28,178 | ~$17,428 | $640 | $7,780 | $3,750 | **$5,258** | Aug 2028 |
+| **Spring 2029** (last undergrad bill) | ~$28,178 | ~$17,428 | $320 | $7,780 | $3,750 | **$5,578** | Dec 2028 / Jan 2029 |
+| **Undergrad total** | | **~$90,100** | **$13,095** | **$38,900** | **$17,750** | **~$20,366** | |
+| **Summer 2029 – Summer 2030 (+1 year)** | 36 cr × ~$720 ≈ **$25,920** (if 24 overlap) · 48 cr ≈ $34,560 (if only 12) | Varies | ~$400 leftover | — (not allowed for grad) | ≤ $20,500/yr (unsubsidized grad) | **~$5,000** (24 overlap) · ~$0–14,000 (only 12: spans 2 loan years) | Per term |
+
+**How the columns were filled (funding order: 529 → Parent PLUS → her loan → out of pocket):**
+- **529:** today's $11,095.50, plus $80/mo, spent as it builds up. That is ~$11,175 in Dec 2026, plus the $80/mo deposits made before each later bill (growth not counted). It is mostly used up by Fall 2027; after that each bill gets only the new deposits.
+- **Parent PLUS:** $8,125 borrowed per semester ($16,250/yr). After the 4.228% fee, ~$7,780 reaches the bill. Total borrowed: $40,625 of the $65k lifetime cap.
+- **Her loan:** $5,500 for 2026-27 (spring half = $2,750), then $7,500/yr ($3,750 per semester) once she has junior standing by credits. Her loan's ~1% fee isn't counted.
+- **Out of pocket** = Est. Net − 529 − PLUS − her loan. Work-study pay (~$1,500–2,000 per semester) can cover part of it.
+- **Summer 2027 split is a placeholder.** It depends on the THT 291 cost breakdown: the 529 covers tuition and books, cash covers travel, fuel and the passport.
+- **AOTC:** loans pay well over $4k of tuition each year, so the $4k carve-out is covered without holding back extra 529 money.
+- **+1 year:** out of pocket assumes she borrows the full $20,500. Lifetime Learning Credit (up to $2,000/yr) can offset part of it.
  
 *Grad estimate uses the posted $800/credit with the 10% Gordon alumni discount. Confirm the current rate, whether a larger Gordon-student discount applies, and whether overlap credits beyond the free 12 cost extra while she's a full-time undergrad. **Every grad credit taken inside undergrad tuition is a grad credit she doesn't borrow for at 8%.***
  
@@ -125,10 +135,10 @@ Gordon Plus graduate credits count toward both degrees, so the 12 grad credits f
  
 | Source | Approx. amount |
 | :--- | :--- |
-| Daughter's 529 ($11,096 + $80/mo) | ~$13,400 |
+| Daughter's 529 ($11,096 + $80/mo through Dec 2028) | ~$13,100 |
 | Her Direct Loans (remaining) | ~$17,750 |
-| Parent PLUS (stay ≤ $65k lifetime; plan ~$16–20k/yr) | ~$40,000–48,000 |
-| **Cash flow / work-study needed** | **~$10,000–18,000** (≈ $400–750/mo) |
+| Parent PLUS ($40,625 borrowed; ~$38,900 after fees) | ~$38,900 |
+| **Cash flow / work-study needed** | **~$20,400** (≈ $17,500 for semesters + ~$2,900 for Summer 2027; ≈ $800/mo from Dec 2026 to Jan 2029) |
  
 ### Work-Study / Campus Job
 - **Reasonable target:** **8–10 hrs/week** during semesters (Gordon allows up to 20). That's ≈ **$3,000–4,000/yr** at ~$15/hr.
@@ -213,7 +223,7 @@ Gordon Plus graduate credits count toward both degrees, so the 12 grad credits f
 | Son's 529 | $14,549.34 (≈ $16,200+ by Aug 2028 at $80/mo, before growth) |
 | Monthly contribution | $80 each ($160 total) |
 | Parent PLUS | Plan ~$16–20k/yr per student; **$65k lifetime per student**; 9.07% + 4.228% fee (2026-27) |
-| Cash-flow target | Start setting aside **$400–750/mo** now for the daughter's gap and the 2028-29 two-bill year |
+| Cash-flow target | Start setting aside **~$800/mo** now for the daughter's gap and the 2028-29 two-bill year |
  
 **Strategy notes**
 - Spend 529 money before Parent PLUS. Every 529 dollar replaces 9%+ debt.
