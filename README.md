@@ -124,7 +124,7 @@ Gordon Plus graduate credits count toward both degrees, so the 12 grad credits f
 
 ⚠️ Fall 2028: the son starts college, so there are two tuition bills. Spring 2029 is the last undergrad bill. Summer 2027 cost is a ~$6,750–8,000 range with no aid. ✅ Fall 2026 is paid.
 
-**Pay by:** fall bills in Aug; spring bills in Dec (or Jan) of the year before; summer May–Aug. **P Schol** = Presidential Scholarship, **Schol** = her other scholarships.
+**Pay by:** fall bills in Aug; spring bills in Dec (or early Jan) before the term; summer May–Aug. **P Schol** = Presidential Scholarship, **Schol** = her other scholarships.
 
 **+1 grad year (Summer 2029 – Summer 2030):** 36 cr × ~$720 ≈ **$25,920** if 24 credits overlap (48 cr ≈ $34,560 if only 12). Funded by ~$400 leftover 529 + her unsubsidized grad loans (≤ $20,500/yr; Parent PLUS isn't allowed for grad school) → **~$5,000 out of pocket**. With only 12 overlapping it spans 2 loan years, so out of pocket is ~$0–14,000. Paid per term.
 
